@@ -1,0 +1,168 @@
+﻿country,iso3,iso_status,region,temp_normal_c,climate_cells,latitude,latitude_method,geo_latitude,koppen_main,koppen_main_area_share
+Afghanistan,AFG,ISO 3166-1 alpha-3,Asia,13.612,253,34.6047,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",33.836,BWh,0.27905293585353347
+Albania,ALB,ISO 3166-1 alpha-3,Europe,12.554,12,41.1166,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",41.142,Csa,0.5004595622147345
+Algeria,DZA,ISO 3166-1 alpha-3,Africa,23.554,855,35.5358,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",28.149,BWh,0.8899337964067543
+Angola,AGO,ISO 3166-1 alpha-3,Africa,21.742,416,-10.9805,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-12.292,Aw,0.5286804140718406
+Argentina,ARG,ISO 3166-1 alpha-3,South America,15.083,1124,-32.9735,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-35.379,Cfa,0.26048877237269263
+Armenia,ARM,ISO 3166-1 alpha-3,Asia,7.779,13,40.3101,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",40.288,Dfb,0.6537311228182371
+Australia,AUS,ISO 3166-1 alpha-3,Oceania,22.046,2783,-33.4693,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-25.732,BWh,0.45004818803131497
+Austria,AUT,ISO 3166-1 alpha-3,Europe,7.494,39,47.811,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",47.586,Dfb,0.6460920281147727
+Azerbaijan,AZE,ISO 3166-1 alpha-3,Asia,13.042,36,40.2832,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",40.289,BSk,0.49067692332915736
+Bahrain,BHR,ISO 3166-1 alpha-3,Asia,,0,26.0,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",26.036,BWh,1.0
+Bangladesh,BGD,ISO 3166-1 alpha-3,Asia,25.837,47,23.9359,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",23.846,Cwa,0.5798477290624352
+Belarus,BLR,ISO 3166-1 alpha-3,Europe,7.447,114,53.5631,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",53.532,Dfb,1.0
+Belgium,BEL,ISO 3166-1 alpha-3,Europe,10.695,17,50.8495,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",50.637,Cfb,1.0
+Belize,BLZ,ISO 3166-1 alpha-3,North America,25.859,6,17.4005,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",17.208,Am,0.6147129507858153
+Benin,BEN,ISO 3166-1 alpha-3,Africa,28.066,39,8.1724,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",9.641,Aw,0.9586515779503977
+Bhutan,BTN,ISO 3166-1 alpha-3,Asia,8.044,13,27.1697,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",27.422,Cwb,0.4030755724674864
+Bolivia,BOL,ISO 3166-1 alpha-3,South America,20.846,365,-17.4744,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-16.707,Aw,0.4344151078306042
+Bosnia and Herzegovina,BIH,ISO 3166-1 alpha-3,Europe,10.292,24,44.1625,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",44.172,Dfb,0.4321212380159902
+Botswana,BWA,ISO 3166-1 alpha-3,Africa,22.065,205,-22.8609,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-22.186,BSh,0.733393920864154
+Brazil,BRA,ISO 3166-1 alpha-3,South America,25.457,2830,-17.7382,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-10.781,Aw,0.48370534507376295
+Bulgaria,BGR,ISO 3166-1 alpha-3,Europe,11.405,49,42.7903,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",42.769,Cfa,0.5731863274733698
+Burkina Faso,BFA,ISO 3166-1 alpha-3,Africa,29.302,86,12.2868,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",12.27,BSh,0.522582283896016
+Burundi,BDI,ISO 3166-1 alpha-3,Africa,20.631,10,-3.2604,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-3.357,Aw,0.8447780732084899
+Cambodia,KHM,ISO 3166-1 alpha-3,Asia,27.399,63,12.0216,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",12.716,Aw,0.8203225041948801
+Cameroon,CMR,ISO 3166-1 alpha-3,Africa,24.783,150,6.4218,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",5.693,Aw,0.7217410048428967
+Canada,CAN,ISO 3166-1 alpha-3,North America,-3.991,6776,48.2115,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",61.376,Dfc,0.4686172744748998
+Central African Republic,CAF,ISO 3166-1 alpha-3,Africa,25.412,205,5.5717,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",6.566,Aw,0.9742253935272647
+Chad,TCD,ISO 3166-1 alpha-3,Africa,27.612,430,11.0986,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",15.333,BWh,0.6664318278691761
+Chile,CHL,ISO 3166-1 alpha-3,South America,9.434,298,-34.076,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-37.744,BWk,0.31718985272664907
+China,CHN,ISO 3166-1 alpha-3,Asia,7.55,3804,32.7979,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",36.559,BWk,0.1858985262148257
+Colombia,COL,ISO 3166-1 alpha-3,South America,25.074,372,5.7465,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",3.909,Af,0.530492420031808
+Comoros,COM,ISO 3166-1 alpha-3,Africa,23.21,1,-12.0606,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-11.884,Am,0.9285349835019653
+Congo,COG,ISO 3166-1 alpha-3,Africa,24.736,110,-3.6447,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-0.839,Aw,0.583635403408214
+Costa Rica,CRI,ISO 3166-1 alpha-3,North America,24.632,15,9.988,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",9.973,Af,0.4424186057074911
+Croatia,HRV,ISO 3166-1 alpha-3,Europe,11.878,25,45.3597,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",45.068,Cfa,0.6272885779762267
+Cuba,CUB,ISO 3166-1 alpha-3,North America,25.721,39,21.7516,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",21.625,Aw,0.8221373872906084
+Cyprus,CYP,ISO 3166-1 alpha-3,Asia,17.95,2,34.869,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",34.915,Csa,0.9057324048794254
+Czechia,CZE,ISO 3166-1 alpha-3,Europe,8.664,38,49.8468,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",49.732,Dfb,0.9496100698693902
+Côte d’Ivoire,CIV,ISO 3166-1 alpha-3,Africa,26.831,110,6.8324,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",7.628,Aw,0.9549978075951213
+DR Congo,COD,ISO 3166-1 alpha-3,Africa,24.326,765,-3.3506,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-2.88,Aw,0.55786534268137
+Denmark,DNK,ISO 3166-1 alpha-3,Europe,8.879,29,55.9008,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",55.965,Cfb,1.0
+Djibouti,DJI,ISO 3166-1 alpha-3,Africa,28.268,7,11.5454,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",11.75,BWh,1.0
+Dominican Republic,DOM,ISO 3166-1 alpha-3,North America,24.827,16,18.8356,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",18.896,Af,0.38015480066204704
+Ecuador,ECU,ISO 3166-1 alpha-3,South America,21.411,85,-1.4327,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-1.426,Af,0.3972741355585406
+Egypt,EGY,ISO 3166-1 alpha-3,Africa,23.133,361,29.7213,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",26.493,BWh,0.9958862365893345
+El Salvador,SLV,ISO 3166-1 alpha-3,North America,25.39,8,13.725,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",13.736,Aw,0.9881840473420052
+Estonia,EST,ISO 3166-1 alpha-3,Europe,6.176,26,58.7402,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",58.671,Dfb,1.0
+Eswatini,SWZ,ISO 3166-1 alpha-3,Africa,20.991,5,-26.553,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-26.562,BSh,0.4050181694602741
+Ethiopia,ETH,ISO 3166-1 alpha-3,Africa,23.33,367,9.299,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",8.623,Aw,0.3417347129411127
+Finland,FIN,ISO 3166-1 alpha-3,Europe,2.503,246,61.7116,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",64.495,Dfc,0.7312332251410878
+France,FRA,ISO 3166-1 alpha-3,Europe,13.679,282,46.6955,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",42.18,Cfb,0.7094154196202337
+Gabon,GAB,ISO 3166-1 alpha-3,Africa,25.165,84,-0.1944,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-0.592,Aw,0.8736867127890668
+Gambia,GMB,ISO 3166-1 alpha-3,Africa,27.777,3,13.4099,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",13.45,BSh,0.7292455168712048
+Georgia,GEO,ISO 3166-1 alpha-3,Asia,9.476,30,41.9461,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",42.169,Dfb,0.48277838199560524
+Germany,DEU,ISO 3166-1 alpha-3,Europe,9.596,189,50.8934,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",51.106,Cfb,0.8011132120009425
+Ghana,GHA,ISO 3166-1 alpha-3,Africa,27.758,77,7.0843,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",7.954,Aw,0.9633934078058353
+Greece,GRC,ISO 3166-1 alpha-3,Europe,14.274,52,38.815,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",39.051,Csa,0.7038066112607521
+Guatemala,GTM,ISO 3166-1 alpha-3,North America,23.733,39,14.9186,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",15.696,Am,0.33057245891529763
+Guinea,GIN,ISO 3166-1 alpha-3,Africa,25.857,78,10.1049,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",10.435,Aw,0.868368619735636
+Guyana,GUY,ISO 3166-1 alpha-3,South America,26.134,67,5.8412,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",4.793,Af,0.7812139985960934
+Haiti,HTI,ISO 3166-1 alpha-3,North America,24.738,13,18.8347,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",18.938,Aw,0.6288727772174186
+Honduras,HND,ISO 3166-1 alpha-3,North America,24.646,35,14.7132,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",14.821,Aw,0.5003259067287779
+Hong Kong SAR of China,HKG,ISO 3166-1 alpha-3,Asia,23.2,1,22.3008,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",22.385,Cwa,1.0
+Hungary,HUN,ISO 3166-1 alpha-3,Europe,11.555,45,47.3154,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",47.163,Cfa,0.4309539574210099
+Iceland,ISL,ISO 3166-1 alpha-3,Europe,1.766,74,64.3914,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",64.998,ET,0.7603858314966724
+India,IND,ISO 3166-1 alpha-3,Asia,24.523,1120,22.5678,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",22.888,Aw,0.3406981662675206
+Indonesia,IDN,ISO 3166-1 alpha-3,Asia,25.919,610,-5.1819,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-2.223,Af,0.851939711779313
+Iran,IRN,ISO 3166-1 alpha-3,Asia,18.439,621,34.3684,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",32.571,BWh,0.4332450939514523
+Iraq,IRQ,ISO 3166-1 alpha-3,Asia,23.029,170,33.47,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",33.04,BWh,0.7883078191649107
+Ireland,IRL,ISO 3166-1 alpha-3,Europe,9.788,39,53.1369,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",53.178,Cfb,1.0
+Israel,ISR,ISO 3166-1 alpha-3,Asia,19.561,10,32.1256,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",31.448,BWh,0.432525055105242
+Italy,ITA,ISO 3166-1 alpha-3,Europe,13.079,131,43.0794,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",42.786,Csa,0.4379877748975586
+Jamaica,JAM,ISO 3166-1 alpha-3,North America,26.211,5,18.0984,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",18.155,Am,0.4514501928488069
+Japan,JPN,ISO 3166-1 alpha-3,Asia,11.978,160,35.8086,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",37.551,Cfa,0.5660305815949784
+Jordan,JOR,ISO 3166-1 alpha-3,Asia,19.34,33,31.9608,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",31.246,BWh,0.8064169708029892
+Kazakhstan,KAZ,ISO 3166-1 alpha-3,Asia,7.086,1320,47.9254,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",48.161,BSk,0.35315361414353474
+Kenya,KEN,ISO 3166-1 alpha-3,Africa,25.065,189,-0.4872,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",0.551,BSh,0.4407809322339059
+Kosovo,XKX,user-assigned XKX convention; not an official ISO 3166-1 code,Europe,9.812,6,42.5932,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",42.573,Cfa,0.4917079996219647
+Kuwait,KWT,ISO 3166-1 alpha-3,Asia,26.389,8,29.294,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",29.34,BWh,1.0
+Kyrgyzstan,KGZ,ISO 3166-1 alpha-3,Asia,2.539,86,41.4894,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",41.462,ET,0.39952808620257696
+Lao PDR,LAO,ISO 3166-1 alpha-3,Asia,24.199,75,18.0256,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",18.502,Cwa,0.39298137825657287
+Latvia,LVA,ISO 3166-1 alpha-3,Europe,6.835,35,56.8545,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",56.852,Dfb,1.0
+Lebanon,LBN,ISO 3166-1 alpha-3,Asia,15.601,4,33.8618,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",33.92,Csa,0.7349435600443787
+Lesotho,LSO,ISO 3166-1 alpha-3,Africa,12.34,12,-29.5102,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-29.58,Cwb,0.7599690919549771
+Liberia,LBR,ISO 3166-1 alpha-3,Africa,25.428,31,6.3133,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",6.452,Am,0.7682988603560399
+Libya,LBY,ISO 3166-1 alpha-3,Africa,22.817,592,31.6828,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",27.03,BWh,0.9787583646022763
+Lithuania,LTU,ISO 3166-1 alpha-3,Europe,7.381,38,55.1987,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",55.327,Dfb,1.0
+Luxembourg,LUX,ISO 3166-1 alpha-3,Europe,10.21,1,49.5927,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",49.767,Cfb,1.0
+Madagascar,MDG,ISO 3166-1 alpha-3,Africa,22.576,199,-19.4009,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-19.373,Aw,0.4343663620403317
+Malawi,MWI,ISO 3166-1 alpha-3,Africa,22.717,39,-14.2397,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-13.217,Aw,0.49396948064255797
+Malaysia,MYS,ISO 3166-1 alpha-3,Asia,26.403,105,3.6815,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",3.792,Af,0.9869105584799365
+Maldives,MDV,ISO 3166-1 alpha-3,Asia,,0,3.828,"Geometric centroid fallback (longitude/latitude planar geometry), no positive population grid cell",3.828,Am,1.0
+Mali,MLI,ISO 3166-1 alpha-3,Africa,29.219,427,13.546,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",17.344,BWh,0.702244981756275
+Malta,MLT,ISO 3166-1 alpha-3,Europe,,0,35.921,"Geometric centroid fallback (longitude/latitude planar geometry), no positive population grid cell",35.921,Csa,1.0
+Mauritania,MRT,ISO 3166-1 alpha-3,Africa,28.805,358,17.218,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",20.256,BWh,0.9919559644564424
+Mauritius,MUS,ISO 3166-1 alpha-3,Africa,23.33,1,-20.3013,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-20.186,Am,0.5001218724704918
+Mexico,MEX,ISO 3166-1 alpha-3,North America,21.409,704,21.1373,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",23.949,Aw,0.212723689518026
+Mongolia,MNG,ISO 3166-1 alpha-3,Asia,1.099,741,47.9076,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",46.826,BWk,0.41568531452379764
+Montenegro,MNE,ISO 3166-1 alpha-3,Europe,9.787,6,42.8137,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",42.786,Dfb,0.5784225827083118
+Morocco,MAR,ISO 3166-1 alpha-3,Africa,19.764,223,33.0573,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",29.842,BWh,0.5478865560155606
+Mozambique,MOZ,ISO 3166-1 alpha-3,Africa,24.415,266,-17.9019,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-17.27,Aw,0.6983908930957553
+Myanmar,MMR,ISO 3166-1 alpha-3,Asia,23.982,231,19.4779,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",21.168,Cwa,0.3815812894275912
+Namibia,NAM,ISO 3166-1 alpha-3,Africa,20.406,284,-19.7394,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-22.129,BWh,0.5915362615457735
+Nepal,NPL,ISO 3166-1 alpha-3,Asia,15.001,53,27.6245,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",28.248,Cwa,0.5122066226068372
+Netherlands,NLD,ISO 3166-1 alpha-3,Europe,10.402,17,52.131,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",52.07,Cfb,0.99027252576537
+New Zealand,NZL,ISO 3166-1 alpha-3,Oceania,10.612,122,-39.817,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-41.829,Cfb,0.8871718990201733
+Nicaragua,NIC,ISO 3166-1 alpha-3,North America,25.939,47,12.4877,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",12.845,Am,0.46887220782348993
+Niger,NER,ISO 3166-1 alpha-3,Africa,28.049,404,14.017,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",17.418,BWh,0.9329078108842629
+Nigeria,NGA,ISO 3166-1 alpha-3,Africa,27.32,300,8.7029,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",9.595,Aw,0.703409766168804
+North Cyprus,XNC,local non-ISO extension; not assigned to a neighboring country,Europe,19.53,2,35.2597,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",35.276,Csa,0.6760143990905034
+North Macedonia,MKD,ISO 3166-1 alpha-3,Europe,10.648,11,41.7429,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",41.595,Cfa,0.5273550851194551
+Norway,NOR,ISO 3166-1 alpha-3,Europe,0.81,349,60.9548,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",68.794,Dfc,0.5904624187287955
+Oman,OMN,ISO 3166-1 alpha-3,Asia,27.7,112,22.8887,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",20.602,BWh,1.0
+Pakistan,PAK,ISO 3166-1 alpha-3,Asia,21.064,321,30.6173,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",29.948,BWh,0.6695328405470713
+Panama,PAN,ISO 3166-1 alpha-3,North America,25.429,24,8.7891,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",8.515,Am,0.672656841747081
+Paraguay,PRY,ISO 3166-1 alpha-3,South America,23.88,142,-25.3014,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-23.228,Aw,0.3624717729602348
+Peru,PER,ISO 3166-1 alpha-3,South America,19.698,428,-10.5359,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-9.154,Af,0.4065433978104925
+Philippines,PHL,ISO 3166-1 alpha-3,Asia,26.16,90,12.4706,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",11.763,Af,0.6698148787506202
+Poland,POL,ISO 3166-1 alpha-3,Europe,8.802,165,51.7033,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",52.125,Dfb,0.9000966724701591
+Portugal,PRT,ISO 3166-1 alpha-3,Europe,15.982,41,39.8626,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",39.587,Csa,0.5971441581757557
+Puerto Rico,PRI,ISO 3166-1 alpha-3,North America,24.977,3,18.1998,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",18.224,Af,0.7592786933012
+Qatar,QAT,ISO 3166-1 alpha-3,Asia,28.051,3,25.2746,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",25.313,BWh,1.0
+Republic of Korea,KOR,ISO 3166-1 alpha-3,Asia,12.124,41,36.6679,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",36.373,Dwa,0.5935619635402181
+Republic of Moldova,MDA,ISO 3166-1 alpha-3,Europe,10.925,15,47.1465,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",47.195,Dfa,0.691097949849523
+Romania,ROU,ISO 3166-1 alpha-3,Europe,10.109,110,45.7169,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",45.853,Dfb,0.5076514788752312
+Russian Federation,RUS,ISO 3166-1 alpha-3,Europe,-3.791,11715,56.2888,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",61.967,Dfc,0.48826465430956006
+Rwanda,RWA,ISO 3166-1 alpha-3,Africa,19.357,10,-2.0265,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-1.993,Aw,0.7044384721615164
+Saudi Arabia,SAU,ISO 3166-1 alpha-3,Asia,25.882,683,22.7624,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",24.122,BWh,0.9982951981773253
+Senegal,SEN,ISO 3166-1 alpha-3,Africa,28.831,67,14.4629,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",14.368,BSh,0.5298517109468326
+Serbia,SRB,ISO 3166-1 alpha-3,Europe,11.488,32,44.1491,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",44.222,Cfa,0.6274589089210941
+Sierra Leone,SLE,ISO 3166-1 alpha-3,Africa,26.496,25,8.4125,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",8.563,Am,0.7773861211290564
+Singapore,SGP,ISO 3166-1 alpha-3,Asia,,0,1.359,"Geometric centroid fallback (longitude/latitude planar geometry), no positive population grid cell",1.359,Af,1.0
+Slovakia,SVK,ISO 3166-1 alpha-3,Europe,8.784,25,48.708,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",48.705,Dfb,0.8671538939473348
+Slovenia,SVN,ISO 3166-1 alpha-3,Europe,9.657,9,46.1693,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",46.116,Dfb,0.4455768195574537
+Somalia,SOM,ISO 3166-1 alpha-3,Africa,27.542,155,2.8345,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",4.749,BWh,0.5562348374292053
+Somaliland Region,XSL,local non-ISO extension; not assigned to a neighboring country,Europe,25.192,58,9.7181,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",9.731,BWh,0.9096454429942712
+South Africa,ZAF,ISO 3166-1 alpha-3,Africa,18.225,451,-28.265,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-29.001,BSk,0.22037565702600076
+South Sudan,SSD,ISO 3166-1 alpha-3,Africa,28.047,202,7.5639,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",7.284,Aw,0.9577052492355949
+Spain,ESP,ISO 3166-1 alpha-3,Europe,14.003,217,39.9394,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",40.227,Csa,0.39090792593753554
+Sri Lanka,LKA,ISO 3166-1 alpha-3,Asia,27.222,22,7.2032,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",7.616,Aw,0.5342894817057482
+State of Palestine,PSE,ISO 3166-1 alpha-3,Asia,20.339,2,31.7731,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",31.918,Csa,0.6291107148644463
+Sudan,SDN,ISO 3166-1 alpha-3,Africa,27.983,629,14.2943,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",15.98,BWh,0.7454784426181451
+Suriname,SUR,ISO 3166-1 alpha-3,South America,26.573,48,5.5685,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",4.131,Am,0.5449868138833504
+Sweden,SWE,ISO 3166-1 alpha-3,Europe,3.25,310,58.8983,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",62.777,Dfc,0.5781211873381702
+Switzerland,CHE,ISO 3166-1 alpha-3,Europe,6.427,17,47.0477,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",46.799,Cfb,0.3844325243311871
+Syria,SYR,ISO 3166-1 alpha-3,Asia,18.717,71,35.3418,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",35.023,BWh,0.45136651637920777
+Taiwan Province of China,TWN,ISO 3166-1 alpha-3,Asia,20.456,13,24.185,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",23.753,Cfa,0.3163035922953901
+Tajikistan,TJK,ISO 3166-1 alpha-3,Asia,3.942,57,38.8693,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",38.53,ET,0.47434756656105526
+Tanzania,TZA,ISO 3166-1 alpha-3,Africa,22.884,307,-5.541,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-6.275,Aw,0.7570926643856879
+Thailand,THA,ISO 3166-1 alpha-3,Asia,26.858,172,14.6081,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",15.114,Aw,0.80090355236291
+Togo,TGO,ISO 3166-1 alpha-3,Africa,27.267,18,7.8378,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",8.527,Aw,1.0
+Trinidad and Tobago,TTO,ISO 3166-1 alpha-3,North America,26.74,2,10.6092,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",10.469,Am,0.615411621038321
+Tunisia,TUN,ISO 3166-1 alpha-3,Africa,20.523,59,35.7166,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",34.119,BWh,0.6766701346061228
+Turkmenistan,TKM,ISO 3166-1 alpha-3,Asia,16.57,194,39.0213,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",39.116,BWk,0.645567970163385
+Türkiye,TUR,ISO 3166-1 alpha-3,Asia,11.673,325,39.3044,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",39.061,Csa,0.408278823912986
+Uganda,UGA,ISO 3166-1 alpha-3,Africa,23.259,82,0.8443,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",1.276,Aw,0.7939156363503025
+Ukraine,UKR,ISO 3166-1 alpha-3,Europe,9.179,285,49.0994,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",49.16,Dfb,0.6105007453475173
+United Arab Emirates,ARE,ISO 3166-1 alpha-3,Asia,28.342,23,24.5014,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",23.906,BWh,1.0
+United Kingdom,GBR,ISO 3166-1 alpha-3,Europe,9.295,136,52.782,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",54.147,Cfb,0.9790101330584672
+United States,USA,ISO 3166-1 alpha-3,North America,9.42,4466,38.8599,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",45.688,Cfa,0.22862604932889297
+Uruguay,URY,ISO 3166-1 alpha-3,South America,17.975,70,-34.0031,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-32.798,Cfa,0.9787512349143873
+Uzbekistan,UZB,ISO 3166-1 alpha-3,Asia,13.822,194,40.4879,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",41.756,BWk,0.704476038723199
+Venezuela,VEN,ISO 3166-1 alpha-3,South America,25.731,295,9.8303,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",7.128,Aw,0.48957195343461957
+Viet Nam,VNM,ISO 3166-1 alpha-3,Asia,24.693,114,15.9465,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",16.642,Cwa,0.42159191213972624
+Yemen,YEM,ISO 3166-1 alpha-3,Asia,25.571,156,14.8177,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",15.905,BWh,0.9665649794666584
+Zambia,ZMB,ISO 3166-1 alpha-3,Africa,22.197,249,-13.6016,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-13.46,Cwa,0.5569190385359593
+Zimbabwe,ZWE,ISO 3166-1 alpha-3,Africa,21.917,135,-19.0258,"Population-weighted spherical centre, World Bank GPW historical baseline 1995–2014 (0.25°)",-19.003,BSh,0.6580661608974635

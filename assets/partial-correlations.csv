@@ -1,0 +1,5 @@
+﻿variable,controls,n,missing,partial_pearson_r,p,df,note
+temperature_normal,region,144,3,-0.09799829198684953,0.251086485468323,137,Exploratory residual association; GDP model contribution is not raw GDP. No causal identification.
+temperature_normal,region + GDP contribution proxy,144,3,0.0007908270436042392,0.99265508737546,136,Exploratory residual association; GDP model contribution is not raw GDP. No causal identification.
+abs_latitude,region,147,0,0.16336403622806228,0.052067934893733174,140,Exploratory residual association; GDP model contribution is not raw GDP. No causal identification.
+abs_latitude,region + GDP contribution proxy,147,0,0.020346936990742654,0.8107329428029195,139,Exploratory residual association; GDP model contribution is not raw GDP. No causal identification.

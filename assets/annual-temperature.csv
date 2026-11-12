@@ -1,0 +1,1337 @@
+﻿iso3,country,year,temperature_c,valid_cells,source
+AFG,Afghanistan,2017,14.020565032958984,253,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AFG,Afghanistan,2018,14.292951583862305,253,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AFG,Afghanistan,2019,13.968904495239258,253,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AFG,Afghanistan,2020,13.311861991882324,253,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AFG,Afghanistan,2021,14.475357055664062,253,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AFG,Afghanistan,2022,14.619433403015137,253,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AFG,Afghanistan,2023,14.782763481140137,253,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AFG,Afghanistan,2024,14.402660369873047,253,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ALB,Albania,2017,12.888313293457031,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ALB,Albania,2018,13.564530372619629,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ALB,Albania,2019,13.541257858276367,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ALB,Albania,2020,13.234259605407715,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ALB,Albania,2021,12.925618171691895,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ALB,Albania,2022,13.50464153289795,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ALB,Albania,2023,13.928449630737305,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ALB,Albania,2024,14.367121696472168,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DZA,Algeria,2017,23.772907257080078,855,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DZA,Algeria,2018,23.45503044128418,855,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DZA,Algeria,2019,23.588388442993164,855,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DZA,Algeria,2020,23.75162696838379,855,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DZA,Algeria,2021,23.85679817199707,855,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DZA,Algeria,2022,24.040430068969727,855,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DZA,Algeria,2023,23.985260009765625,855,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DZA,Algeria,2024,24.177671432495117,855,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AGO,Angola,2017,21.8304443359375,416,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AGO,Angola,2018,21.663915634155273,416,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AGO,Angola,2019,21.81249237060547,416,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AGO,Angola,2020,21.72569465637207,416,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AGO,Angola,2021,21.727163314819336,416,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AGO,Angola,2022,21.625747680664062,416,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AGO,Angola,2023,21.558040618896484,416,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AGO,Angola,2024,21.705669403076172,416,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARG,Argentina,2017,15.509285926818848,1124,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARG,Argentina,2018,15.207473754882812,1124,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARG,Argentina,2019,15.157111167907715,1124,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARG,Argentina,2020,15.488712310791016,1124,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARG,Argentina,2021,15.352818489074707,1124,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARG,Argentina,2022,15.064628601074219,1124,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARG,Argentina,2023,15.885782241821289,1124,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARG,Argentina,2024,15.495790481567383,1124,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARM,Armenia,2017,8.046466827392578,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARM,Armenia,2018,9.324337005615234,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARM,Armenia,2019,8.492563247680664,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARM,Armenia,2020,8.239951133728027,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARM,Armenia,2021,8.909348487854004,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARM,Armenia,2022,8.563454627990723,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARM,Armenia,2023,8.913646697998047,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARM,Armenia,2024,8.765670776367188,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUS,Australia,2017,22.47287368774414,2783,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUS,Australia,2018,22.51129150390625,2783,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUS,Australia,2019,22.79775047302246,2783,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUS,Australia,2020,22.52772331237793,2783,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUS,Australia,2021,22.034759521484375,2783,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUS,Australia,2022,21.923303604125977,2783,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUS,Australia,2023,22.299291610717773,2783,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUS,Australia,2024,22.76310157775879,2783,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUT,Austria,2017,7.813504695892334,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUT,Austria,2018,8.677260398864746,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUT,Austria,2019,8.488933563232422,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUT,Austria,2020,8.391324043273926,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUT,Austria,2021,7.337161064147949,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUT,Austria,2022,8.693122863769531,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUT,Austria,2023,8.88629150390625,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AUT,Austria,2024,9.303187370300293,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AZE,Azerbaijan,2017,13.367077827453613,36,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AZE,Azerbaijan,2018,14.213235855102539,36,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AZE,Azerbaijan,2019,13.702938079833984,36,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AZE,Azerbaijan,2020,13.376401901245117,36,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AZE,Azerbaijan,2021,14.110536575317383,36,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AZE,Azerbaijan,2022,13.873534202575684,36,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AZE,Azerbaijan,2023,14.255033493041992,36,CRU TS4.09 / World Bank CCKP; land-cell area weights
+AZE,Azerbaijan,2024,13.997384071350098,36,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BHR,Bahrain,2017,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BHR,Bahrain,2018,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BHR,Bahrain,2019,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BHR,Bahrain,2020,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BHR,Bahrain,2021,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BHR,Bahrain,2022,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BHR,Bahrain,2023,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BHR,Bahrain,2024,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGD,Bangladesh,2017,25.820775985717773,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGD,Bangladesh,2018,25.436120986938477,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGD,Bangladesh,2019,25.78571319580078,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGD,Bangladesh,2020,25.547761917114258,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGD,Bangladesh,2021,25.88848876953125,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGD,Bangladesh,2022,25.891677856445312,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGD,Bangladesh,2023,26.16059112548828,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGD,Bangladesh,2024,26.318378448486328,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLR,Belarus,2017,7.7435302734375,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLR,Belarus,2018,8.090927124023438,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLR,Belarus,2019,8.82265567779541,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLR,Belarus,2020,9.09001350402832,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLR,Belarus,2021,7.35751485824585,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLR,Belarus,2022,8.017711639404297,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLR,Belarus,2023,8.814379692077637,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLR,Belarus,2024,9.334685325622559,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEL,Belgium,2017,11.063486099243164,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEL,Belgium,2018,11.750751495361328,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEL,Belgium,2019,11.468083381652832,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEL,Belgium,2020,11.90942096710205,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEL,Belgium,2021,10.487326622009277,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEL,Belgium,2022,12.014256477355957,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEL,Belgium,2023,11.956623077392578,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEL,Belgium,2024,11.818338394165039,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLZ,Belize,2017,26.24205207824707,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLZ,Belize,2018,25.807071685791016,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLZ,Belize,2019,26.2437801361084,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLZ,Belize,2020,26.512067794799805,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLZ,Belize,2021,26.295284271240234,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLZ,Belize,2022,25.855419158935547,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLZ,Belize,2023,26.555339813232422,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BLZ,Belize,2024,26.7487735748291,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEN,Benin,2017,28.350444793701172,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEN,Benin,2018,28.351226806640625,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEN,Benin,2019,28.250913619995117,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEN,Benin,2020,28.459257125854492,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEN,Benin,2021,28.61563491821289,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEN,Benin,2022,27.95522689819336,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEN,Benin,2023,28.5688419342041,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BEN,Benin,2024,28.57077980041504,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BTN,Bhutan,2017,8.230592727661133,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BTN,Bhutan,2018,7.892040729522705,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BTN,Bhutan,2019,8.184564590454102,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BTN,Bhutan,2020,8.049101829528809,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BTN,Bhutan,2021,8.476907730102539,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BTN,Bhutan,2022,8.253721237182617,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BTN,Bhutan,2023,8.496210098266602,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BTN,Bhutan,2024,8.574851036071777,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BOL,Bolivia,2017,21.097673416137695,365,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BOL,Bolivia,2018,20.675317764282227,365,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BOL,Bolivia,2019,21.050704956054688,365,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BOL,Bolivia,2020,21.397998809814453,365,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BOL,Bolivia,2021,20.916200637817383,365,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BOL,Bolivia,2022,20.775074005126953,365,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BOL,Bolivia,2023,22.011821746826172,365,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BOL,Bolivia,2024,21.852800369262695,365,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BIH,Bosnia and Herzegovina,2017,10.667819023132324,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BIH,Bosnia and Herzegovina,2018,11.463338851928711,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BIH,Bosnia and Herzegovina,2019,11.543404579162598,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BIH,Bosnia and Herzegovina,2020,11.020727157592773,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BIH,Bosnia and Herzegovina,2021,10.418010711669922,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BIH,Bosnia and Herzegovina,2022,11.439188003540039,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BIH,Bosnia and Herzegovina,2023,11.758530616760254,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BIH,Bosnia and Herzegovina,2024,12.210758209228516,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BWA,Botswana,2017,22.10032081604004,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BWA,Botswana,2018,22.231630325317383,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BWA,Botswana,2019,22.9176025390625,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BWA,Botswana,2020,22.005889892578125,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BWA,Botswana,2021,21.729345321655273,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BWA,Botswana,2022,21.971311569213867,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BWA,Botswana,2023,22.178112030029297,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BWA,Botswana,2024,22.533222198486328,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BRA,Brazil,2017,25.74079132080078,2830,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BRA,Brazil,2018,25.56873893737793,2830,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BRA,Brazil,2019,25.8984317779541,2830,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BRA,Brazil,2020,25.84895896911621,2830,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BRA,Brazil,2021,25.523534774780273,2830,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BRA,Brazil,2022,25.47163963317871,2830,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BRA,Brazil,2023,25.914913177490234,2830,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BRA,Brazil,2024,26.017194747924805,2830,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGR,Bulgaria,2017,11.776287078857422,49,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGR,Bulgaria,2018,12.322330474853516,49,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGR,Bulgaria,2019,12.758161544799805,49,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGR,Bulgaria,2020,12.531283378601074,49,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGR,Bulgaria,2021,11.85145378112793,49,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGR,Bulgaria,2022,12.317937850952148,49,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGR,Bulgaria,2023,13.095650672912598,49,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BGR,Bulgaria,2024,13.286552429199219,49,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BFA,Burkina Faso,2017,29.618444442749023,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BFA,Burkina Faso,2018,29.620920181274414,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BFA,Burkina Faso,2019,29.420381546020508,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BFA,Burkina Faso,2020,29.674392700195312,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BFA,Burkina Faso,2021,30.02497673034668,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BFA,Burkina Faso,2022,29.378149032592773,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BFA,Burkina Faso,2023,29.981822967529297,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BFA,Burkina Faso,2024,29.945409774780273,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BDI,Burundi,2017,20.976938247680664,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BDI,Burundi,2018,20.508956909179688,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BDI,Burundi,2019,20.754953384399414,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BDI,Burundi,2020,20.550960540771484,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BDI,Burundi,2021,20.638961791992188,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BDI,Burundi,2022,20.57895851135254,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BDI,Burundi,2023,20.95395851135254,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+BDI,Burundi,2024,20.39694595336914,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KHM,Cambodia,2017,27.439359664916992,63,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KHM,Cambodia,2018,27.464101791381836,63,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KHM,Cambodia,2019,27.985767364501953,63,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KHM,Cambodia,2020,27.90050506591797,63,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KHM,Cambodia,2021,27.403255462646484,63,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KHM,Cambodia,2022,27.235904693603516,63,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KHM,Cambodia,2023,28.0130615234375,63,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KHM,Cambodia,2024,28.286767959594727,63,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CMR,Cameroon,2017,24.928054809570312,150,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CMR,Cameroon,2018,24.958791732788086,150,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CMR,Cameroon,2019,24.93990707397461,150,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CMR,Cameroon,2020,25.20380401611328,150,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CMR,Cameroon,2021,25.18155860900879,150,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CMR,Cameroon,2022,24.976781845092773,150,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CMR,Cameroon,2023,25.05632972717285,150,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CMR,Cameroon,2024,25.150127410888672,150,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAN,Canada,2017,-3.730599880218506,6776,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAN,Canada,2018,-4.523650646209717,6776,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAN,Canada,2019,-4.255858898162842,6776,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAN,Canada,2020,-4.0716729164123535,6776,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAN,Canada,2021,-3.515989065170288,6776,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAN,Canada,2022,-4.085764408111572,6776,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAN,Canada,2023,-2.794320583343506,6776,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAN,Canada,2024,-2.8803064823150635,6776,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAF,Central African Republic,2017,25.46440315246582,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAF,Central African Republic,2018,25.418807983398438,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAF,Central African Republic,2019,25.639667510986328,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAF,Central African Republic,2020,25.646291732788086,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAF,Central African Republic,2021,25.724929809570312,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAF,Central African Republic,2022,25.539356231689453,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAF,Central African Republic,2023,25.39463233947754,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CAF,Central African Republic,2024,25.399620056152344,205,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TCD,Chad,2017,27.56278419494629,430,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TCD,Chad,2018,27.61258316040039,430,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TCD,Chad,2019,27.706317901611328,430,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TCD,Chad,2020,27.309429168701172,430,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TCD,Chad,2021,27.63140296936035,430,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TCD,Chad,2022,27.219810485839844,430,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TCD,Chad,2023,27.491994857788086,430,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TCD,Chad,2024,27.414840698242188,430,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHL,Chile,2017,9.813159942626953,298,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHL,Chile,2018,9.509821891784668,298,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHL,Chile,2019,9.548017501831055,298,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHL,Chile,2020,9.911028861999512,298,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHL,Chile,2021,9.817670822143555,298,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHL,Chile,2022,9.448641777038574,298,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHL,Chile,2023,10.11993408203125,298,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHL,Chile,2024,9.780510902404785,298,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHN,China,2017,8.064970970153809,3804,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHN,China,2018,7.730661869049072,3804,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHN,China,2019,7.993212699890137,3804,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHN,China,2020,7.8971476554870605,3804,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHN,China,2021,8.177812576293945,3804,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHN,China,2022,8.080978393554688,3804,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHN,China,2023,8.358957290649414,3804,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHN,China,2024,8.471628189086914,3804,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COL,Colombia,2017,25.126970291137695,372,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COL,Colombia,2018,25.050769805908203,372,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COL,Colombia,2019,25.37676429748535,372,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COL,Colombia,2020,25.3054141998291,372,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COL,Colombia,2021,24.92241668701172,372,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COL,Colombia,2022,24.724750518798828,372,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COL,Colombia,2023,25.3474063873291,372,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COL,Colombia,2024,25.605398178100586,372,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COM,Comoros,2017,23.5,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COM,Comoros,2018,23.360000610351562,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COM,Comoros,2019,23.68000030517578,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COM,Comoros,2020,23.68000030517578,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COM,Comoros,2021,23.450000762939453,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COM,Comoros,2022,23.290000915527344,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COM,Comoros,2023,23.860000610351562,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COM,Comoros,2024,23.899999618530273,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COG,Congo,2017,24.89691734313965,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COG,Congo,2018,25.048500061035156,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COG,Congo,2019,24.996713638305664,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COG,Congo,2020,25.381113052368164,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COG,Congo,2021,25.276376724243164,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COG,Congo,2022,25.07722282409668,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COG,Congo,2023,24.885942459106445,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COG,Congo,2024,25.279266357421875,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CRI,Costa Rica,2017,24.65227699279785,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CRI,Costa Rica,2018,24.228513717651367,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CRI,Costa Rica,2019,24.530479431152344,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CRI,Costa Rica,2020,24.666412353515625,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CRI,Costa Rica,2021,24.49639892578125,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CRI,Costa Rica,2022,24.398263931274414,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CRI,Costa Rica,2023,25.238941192626953,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CRI,Costa Rica,2024,24.997026443481445,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HRV,Croatia,2017,12.24695110321045,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HRV,Croatia,2018,13.033548355102539,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HRV,Croatia,2019,13.037029266357422,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HRV,Croatia,2020,12.626357078552246,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HRV,Croatia,2021,11.944611549377441,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HRV,Croatia,2022,13.125457763671875,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HRV,Croatia,2023,13.346213340759277,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HRV,Croatia,2024,13.744709968566895,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CUB,Cuba,2017,26.18037223815918,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CUB,Cuba,2018,25.88722801208496,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CUB,Cuba,2019,26.384414672851562,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CUB,Cuba,2020,26.498126983642578,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CUB,Cuba,2021,26.139028549194336,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CUB,Cuba,2022,26.233491897583008,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CUB,Cuba,2023,26.675827026367188,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CUB,Cuba,2024,26.391035079956055,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CYP,Cyprus,2017,18.1200008392334,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CYP,Cyprus,2018,18.98000144958496,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CYP,Cyprus,2019,18.51500129699707,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CYP,Cyprus,2020,18.684999465942383,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CYP,Cyprus,2021,18.729999542236328,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CYP,Cyprus,2022,18.220001220703125,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CYP,Cyprus,2023,18.96500015258789,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CYP,Cyprus,2024,19.235000610351562,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CZE,Czechia,2017,9.018675804138184,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CZE,Czechia,2018,9.958067893981934,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CZE,Czechia,2019,9.856039047241211,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CZE,Czechia,2020,9.692978858947754,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CZE,Czechia,2021,8.575955390930176,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CZE,Czechia,2022,9.790826797485352,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CZE,Czechia,2023,10.097719192504883,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CZE,Czechia,2024,10.621567726135254,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CIV,Côte d’Ivoire,2017,27.17999839782715,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CIV,Côte d’Ivoire,2018,27.093936920166016,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CIV,Côte d’Ivoire,2019,26.952598571777344,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CIV,Côte d’Ivoire,2020,27.223634719848633,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CIV,Côte d’Ivoire,2021,27.383745193481445,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CIV,Côte d’Ivoire,2022,26.825769424438477,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CIV,Côte d’Ivoire,2023,27.33375358581543,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CIV,Côte d’Ivoire,2024,27.396259307861328,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COD,DR Congo,2017,24.395183563232422,765,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COD,DR Congo,2018,24.30788803100586,765,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COD,DR Congo,2019,24.370195388793945,765,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COD,DR Congo,2020,24.474700927734375,765,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COD,DR Congo,2021,24.46773338317871,765,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COD,DR Congo,2022,24.381460189819336,765,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COD,DR Congo,2023,24.364768981933594,765,CRU TS4.09 / World Bank CCKP; land-cell area weights
+COD,DR Congo,2024,24.420068740844727,765,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DNK,Denmark,2017,9.04382610321045,29,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DNK,Denmark,2018,9.661917686462402,29,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DNK,Denmark,2019,9.675803184509277,29,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DNK,Denmark,2020,10.15950870513916,29,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DNK,Denmark,2021,8.972613334655762,29,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DNK,Denmark,2022,9.748336791992188,29,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DNK,Denmark,2023,9.601045608520508,29,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DNK,Denmark,2024,10.06748104095459,29,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DJI,Djibouti,2017,28.53669548034668,7,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DJI,Djibouti,2018,28.191022872924805,7,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DJI,Djibouti,2019,28.296707153320312,7,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DJI,Djibouti,2020,28.13102912902832,7,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DJI,Djibouti,2021,28.29098129272461,7,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DJI,Djibouti,2022,28.46391487121582,7,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DJI,Djibouti,2023,28.445316314697266,7,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DJI,Djibouti,2024,29.056747436523438,7,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DOM,Dominican Republic,2017,25.013111114501953,16,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DOM,Dominican Republic,2018,24.812406539916992,16,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DOM,Dominican Republic,2019,25.129255294799805,16,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DOM,Dominican Republic,2020,25.2137393951416,16,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DOM,Dominican Republic,2021,25.036943435668945,16,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DOM,Dominican Republic,2022,24.898147583007812,16,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DOM,Dominican Republic,2023,25.448638916015625,16,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DOM,Dominican Republic,2024,25.82005500793457,16,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ECU,Ecuador,2017,21.65266227722168,85,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ECU,Ecuador,2018,21.5111026763916,85,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ECU,Ecuador,2019,21.568050384521484,85,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ECU,Ecuador,2020,21.64767074584961,85,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ECU,Ecuador,2021,21.298019409179688,85,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ECU,Ecuador,2022,21.016157150268555,85,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ECU,Ecuador,2023,22.225004196166992,85,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ECU,Ecuador,2024,21.726858139038086,85,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EGY,Egypt,2017,23.251401901245117,361,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EGY,Egypt,2018,24.06003761291504,361,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EGY,Egypt,2019,23.37450408935547,361,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EGY,Egypt,2020,23.18402099609375,361,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EGY,Egypt,2021,23.854415893554688,361,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EGY,Egypt,2022,23.190322875976562,361,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EGY,Egypt,2023,23.952722549438477,361,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EGY,Egypt,2024,23.95444679260254,361,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLV,El Salvador,2017,25.686349868774414,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLV,El Salvador,2018,25.215129852294922,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLV,El Salvador,2019,25.63761329650879,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLV,El Salvador,2020,25.917585372924805,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLV,El Salvador,2021,25.687585830688477,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLV,El Salvador,2022,25.398860931396484,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLV,El Salvador,2023,26.032577514648438,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLV,El Salvador,2024,26.193857192993164,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EST,Estonia,2017,6.202573776245117,26,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EST,Estonia,2018,6.935081958770752,26,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EST,Estonia,2019,7.13408899307251,26,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EST,Estonia,2020,8.000250816345215,26,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EST,Estonia,2021,6.2560133934021,26,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EST,Estonia,2022,6.834414005279541,26,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EST,Estonia,2023,6.819051265716553,26,CRU TS4.09 / World Bank CCKP; land-cell area weights
+EST,Estonia,2024,7.486876010894775,26,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWZ,Eswatini,2017,21.118934631347656,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWZ,Eswatini,2018,21.511003494262695,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWZ,Eswatini,2019,21.910968780517578,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWZ,Eswatini,2020,21.17686653137207,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWZ,Eswatini,2021,20.80883026123047,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWZ,Eswatini,2022,21.212949752807617,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWZ,Eswatini,2023,21.370882034301758,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWZ,Eswatini,2024,21.756980895996094,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ETH,Ethiopia,2017,23.58180046081543,367,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ETH,Ethiopia,2018,23.277835845947266,367,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ETH,Ethiopia,2019,23.366409301757812,367,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ETH,Ethiopia,2020,23.262737274169922,367,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ETH,Ethiopia,2021,23.367223739624023,367,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ETH,Ethiopia,2022,23.439329147338867,367,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ETH,Ethiopia,2023,23.710433959960938,367,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ETH,Ethiopia,2024,24.134016036987305,367,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FIN,Finland,2017,2.4883079528808594,246,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FIN,Finland,2018,3.2880890369415283,246,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FIN,Finland,2019,2.8187015056610107,246,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FIN,Finland,2020,4.257996082305908,246,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FIN,Finland,2021,2.4025661945343018,246,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FIN,Finland,2022,3.3004841804504395,246,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FIN,Finland,2023,2.900573968887329,246,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FIN,Finland,2024,3.6191201210021973,246,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FRA,France,2017,13.977556228637695,282,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FRA,France,2018,14.54566764831543,282,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FRA,France,2019,14.344120025634766,282,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FRA,France,2020,14.649728775024414,282,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FRA,France,2021,13.6188383102417,282,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FRA,France,2022,14.97632122039795,282,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FRA,France,2023,14.916625022888184,282,CRU TS4.09 / World Bank CCKP; land-cell area weights
+FRA,France,2024,14.673232078552246,282,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GAB,Gabon,2017,25.276987075805664,84,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GAB,Gabon,2018,25.4547176361084,84,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GAB,Gabon,2019,25.359130859375,84,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GAB,Gabon,2020,25.698766708374023,84,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GAB,Gabon,2021,25.619014739990234,84,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GAB,Gabon,2022,25.41830825805664,84,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GAB,Gabon,2023,25.233781814575195,84,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GAB,Gabon,2024,25.625324249267578,84,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GMB,Gambia,2017,28.17333221435547,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GMB,Gambia,2018,27.703332901000977,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GMB,Gambia,2019,27.47333335876465,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GMB,Gambia,2020,28.376663208007812,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GMB,Gambia,2021,28.446666717529297,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GMB,Gambia,2022,27.856666564941406,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GMB,Gambia,2023,28.496665954589844,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GMB,Gambia,2024,28.273332595825195,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GEO,Georgia,2017,9.815876960754395,30,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GEO,Georgia,2018,10.674137115478516,30,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GEO,Georgia,2019,10.254983901977539,30,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GEO,Georgia,2020,10.171038627624512,30,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GEO,Georgia,2021,10.368513107299805,30,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GEO,Georgia,2022,10.230695724487305,30,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GEO,Georgia,2023,10.732626914978027,30,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GEO,Georgia,2024,10.664624214172363,30,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DEU,Germany,2017,9.909990310668945,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DEU,Germany,2018,10.737160682678223,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DEU,Germany,2019,10.565017700195312,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DEU,Germany,2020,10.75363540649414,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DEU,Germany,2021,9.489933967590332,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DEU,Germany,2022,10.798188209533691,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DEU,Germany,2023,10.897713661193848,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+DEU,Germany,2024,11.193949699401855,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GHA,Ghana,2017,28.10928726196289,77,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GHA,Ghana,2018,28.047054290771484,77,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GHA,Ghana,2019,27.945558547973633,77,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GHA,Ghana,2020,28.161659240722656,77,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GHA,Ghana,2021,28.36520767211914,77,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GHA,Ghana,2022,27.78992462158203,77,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GHA,Ghana,2023,28.317153930664062,77,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GHA,Ghana,2024,28.406129837036133,77,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GRC,Greece,2017,14.56129264831543,52,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GRC,Greece,2018,15.297384262084961,52,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GRC,Greece,2019,15.322437286376953,52,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GRC,Greece,2020,15.203563690185547,52,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GRC,Greece,2021,15.164361953735352,52,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GRC,Greece,2022,14.994656562805176,52,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GRC,Greece,2023,15.631781578063965,52,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GRC,Greece,2024,15.979766845703125,52,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GTM,Guatemala,2017,24.131759643554688,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GTM,Guatemala,2018,23.619962692260742,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GTM,Guatemala,2019,24.091094970703125,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GTM,Guatemala,2020,24.402427673339844,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GTM,Guatemala,2021,24.150148391723633,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GTM,Guatemala,2022,23.818038940429688,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GTM,Guatemala,2023,24.466903686523438,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GTM,Guatemala,2024,24.660802841186523,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GIN,Guinea,2017,26.219810485839844,78,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GIN,Guinea,2018,26.148941040039062,78,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GIN,Guinea,2019,25.862178802490234,78,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GIN,Guinea,2020,26.322898864746094,78,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GIN,Guinea,2021,26.673065185546875,78,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GIN,Guinea,2022,25.94979476928711,78,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GIN,Guinea,2023,26.5844783782959,78,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GIN,Guinea,2024,26.581056594848633,78,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GUY,Guyana,2017,26.385040283203125,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GUY,Guyana,2018,26.13313865661621,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GUY,Guyana,2019,26.382484436035156,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GUY,Guyana,2020,26.478193283081055,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GUY,Guyana,2021,26.201820373535156,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GUY,Guyana,2022,26.148582458496094,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GUY,Guyana,2023,26.650819778442383,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GUY,Guyana,2024,27.116281509399414,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HTI,Haiti,2017,24.959697723388672,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HTI,Haiti,2018,24.86281394958496,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HTI,Haiti,2019,25.131975173950195,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HTI,Haiti,2020,25.209739685058594,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HTI,Haiti,2021,24.94902229309082,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HTI,Haiti,2022,24.885122299194336,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HTI,Haiti,2023,25.395118713378906,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HTI,Haiti,2024,25.619098663330078,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HND,Honduras,2017,24.934192657470703,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HND,Honduras,2018,24.57664680480957,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HND,Honduras,2019,24.98894691467285,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HND,Honduras,2020,25.1761474609375,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HND,Honduras,2021,24.9849910736084,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HND,Honduras,2022,24.713581085205078,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HND,Honduras,2023,25.34671401977539,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HND,Honduras,2024,25.491634368896484,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HKG,Hong Kong SAR of China,2017,23.780000686645508,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HKG,Hong Kong SAR of China,2018,23.649999618530273,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HKG,Hong Kong SAR of China,2019,24.1299991607666,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HKG,Hong Kong SAR of China,2020,24.170000076293945,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HKG,Hong Kong SAR of China,2021,24.309999465942383,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HKG,Hong Kong SAR of China,2022,23.770002365112305,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HKG,Hong Kong SAR of China,2023,24.239999771118164,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HKG,Hong Kong SAR of China,2024,24.3799991607666,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HUN,Hungary,2017,11.973782539367676,45,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HUN,Hungary,2018,12.835765838623047,45,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HUN,Hungary,2019,12.929203033447266,45,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HUN,Hungary,2020,12.345121383666992,45,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HUN,Hungary,2021,11.643917083740234,45,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HUN,Hungary,2022,12.696789741516113,45,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HUN,Hungary,2023,13.108983039855957,45,CRU TS4.09 / World Bank CCKP; land-cell area weights
+HUN,Hungary,2024,13.548592567443848,45,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISL,Iceland,2017,2.282028913497925,74,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISL,Iceland,2018,1.970234751701355,74,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISL,Iceland,2019,2.1221120357513428,74,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISL,Iceland,2020,1.7842576503753662,74,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISL,Iceland,2021,2.1122701168060303,74,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISL,Iceland,2022,1.9209160804748535,74,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISL,Iceland,2023,1.6618809700012207,74,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISL,Iceland,2024,1.1287904977798462,74,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IND,India,2017,24.835927963256836,1120,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IND,India,2018,24.708362579345703,1120,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IND,India,2019,24.63799476623535,1120,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IND,India,2020,24.479398727416992,1120,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IND,India,2021,24.690465927124023,1120,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IND,India,2022,24.790922164916992,1120,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IND,India,2023,24.64783477783203,1120,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IND,India,2024,25.035619735717773,1120,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IDN,Indonesia,2017,26.005945205688477,610,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IDN,Indonesia,2018,26.01436996459961,610,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IDN,Indonesia,2019,26.168376922607422,610,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IDN,Indonesia,2020,26.162994384765625,610,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IDN,Indonesia,2021,25.97161293029785,610,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IDN,Indonesia,2022,25.917476654052734,610,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IDN,Indonesia,2023,26.12689781188965,610,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IDN,Indonesia,2024,26.340003967285156,610,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRN,Iran,2017,18.8597354888916,621,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRN,Iran,2018,19.370147705078125,621,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRN,Iran,2019,18.83836555480957,621,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRN,Iran,2020,18.42865753173828,621,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRN,Iran,2021,19.609153747558594,621,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRN,Iran,2022,19.33039665222168,621,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRN,Iran,2023,19.65549087524414,621,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRN,Iran,2024,19.221494674682617,621,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRQ,Iraq,2017,23.432968139648438,170,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRQ,Iraq,2018,24.223522186279297,170,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRQ,Iraq,2019,23.543020248413086,170,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRQ,Iraq,2020,23.471763610839844,170,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRQ,Iraq,2021,24.29005241394043,170,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRQ,Iraq,2022,23.885330200195312,170,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRQ,Iraq,2023,24.085479736328125,170,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRQ,Iraq,2024,23.87128448486328,170,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRL,Ireland,2017,10.078230857849121,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRL,Ireland,2018,9.802095413208008,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRL,Ireland,2019,9.95938491821289,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRL,Ireland,2020,9.904620170593262,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRL,Ireland,2021,9.989319801330566,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRL,Ireland,2022,10.46412467956543,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRL,Ireland,2023,10.625926971435547,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+IRL,Ireland,2024,10.224061965942383,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISR,Israel,2017,19.761638641357422,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISR,Israel,2018,20.492183685302734,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISR,Israel,2019,19.858949661254883,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISR,Israel,2020,19.95467758178711,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISR,Israel,2021,20.237112045288086,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISR,Israel,2022,19.649883270263672,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISR,Israel,2023,20.505495071411133,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ISR,Israel,2024,20.44086265563965,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ITA,Italy,2017,13.322797775268555,131,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ITA,Italy,2018,13.995772361755371,131,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ITA,Italy,2019,13.783418655395508,131,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ITA,Italy,2020,13.806374549865723,131,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ITA,Italy,2021,13.254250526428223,131,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ITA,Italy,2022,14.26830005645752,131,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ITA,Italy,2023,14.205288887023926,131,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ITA,Italy,2024,14.396678924560547,131,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JAM,Jamaica,2017,26.442516326904297,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JAM,Jamaica,2018,26.42253875732422,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JAM,Jamaica,2019,26.570505142211914,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JAM,Jamaica,2020,26.64252281188965,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JAM,Jamaica,2021,26.390539169311523,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JAM,Jamaica,2022,26.368494033813477,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JAM,Jamaica,2023,26.912538528442383,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JAM,Jamaica,2024,26.93657112121582,5,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JPN,Japan,2017,11.850151062011719,160,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JPN,Japan,2018,12.409809112548828,160,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JPN,Japan,2019,12.596029281616211,160,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JPN,Japan,2020,12.589447975158691,160,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JPN,Japan,2021,12.630380630493164,160,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JPN,Japan,2022,12.597274780273438,160,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JPN,Japan,2023,13.151618003845215,160,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JPN,Japan,2024,13.261311531066895,160,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JOR,Jordan,2017,19.623353958129883,33,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JOR,Jordan,2018,20.27915382385254,33,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JOR,Jordan,2019,19.68804168701172,33,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JOR,Jordan,2020,19.743228912353516,33,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JOR,Jordan,2021,20.05300521850586,33,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JOR,Jordan,2022,19.49995231628418,33,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JOR,Jordan,2023,20.28962516784668,33,CRU TS4.09 / World Bank CCKP; land-cell area weights
+JOR,Jordan,2024,20.148683547973633,33,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KAZ,Kazakhstan,2017,7.566997051239014,1320,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KAZ,Kazakhstan,2018,6.468535900115967,1320,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KAZ,Kazakhstan,2019,7.78987979888916,1320,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KAZ,Kazakhstan,2020,8.099766731262207,1320,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KAZ,Kazakhstan,2021,7.8607683181762695,1320,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KAZ,Kazakhstan,2022,8.01814079284668,1320,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KAZ,Kazakhstan,2023,8.932064056396484,1320,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KAZ,Kazakhstan,2024,7.938046932220459,1320,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KEN,Kenya,2017,25.262170791625977,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KEN,Kenya,2018,24.903640747070312,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KEN,Kenya,2019,25.32405662536621,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KEN,Kenya,2020,25.339916229248047,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KEN,Kenya,2021,25.232656478881836,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KEN,Kenya,2022,25.26622772216797,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KEN,Kenya,2023,25.610570907592773,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KEN,Kenya,2024,25.29220199584961,189,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XKX,Kosovo,2017,10.231889724731445,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XKX,Kosovo,2018,11.031850814819336,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XKX,Kosovo,2019,11.218522071838379,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XKX,Kosovo,2020,10.503555297851562,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XKX,Kosovo,2021,9.883607864379883,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XKX,Kosovo,2022,10.848562240600586,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XKX,Kosovo,2023,11.336831092834473,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XKX,Kosovo,2024,11.75514030456543,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KWT,Kuwait,2017,26.99542808532715,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KWT,Kuwait,2018,27.430339813232422,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KWT,Kuwait,2019,26.921630859375,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KWT,Kuwait,2020,26.782915115356445,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KWT,Kuwait,2021,27.84031105041504,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KWT,Kuwait,2022,27.505325317382812,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KWT,Kuwait,2023,27.541608810424805,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KWT,Kuwait,2024,27.28289794921875,8,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KGZ,Kyrgyzstan,2017,2.8254358768463135,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KGZ,Kyrgyzstan,2018,2.5962893962860107,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KGZ,Kyrgyzstan,2019,3.4830832481384277,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KGZ,Kyrgyzstan,2020,2.596799373626709,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KGZ,Kyrgyzstan,2021,3.4656667709350586,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KGZ,Kyrgyzstan,2022,3.862701892852783,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KGZ,Kyrgyzstan,2023,4.1857781410217285,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KGZ,Kyrgyzstan,2024,3.3831772804260254,86,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LAO,Lao PDR,2017,24.167537689208984,75,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LAO,Lao PDR,2018,24.17789077758789,75,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LAO,Lao PDR,2019,24.924964904785156,75,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LAO,Lao PDR,2020,24.712194442749023,75,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LAO,Lao PDR,2021,24.32671546936035,75,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LAO,Lao PDR,2022,24.067975997924805,75,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LAO,Lao PDR,2023,24.951339721679688,75,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LAO,Lao PDR,2024,25.072372436523438,75,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LVA,Latvia,2017,6.940120220184326,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LVA,Latvia,2018,7.574223041534424,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LVA,Latvia,2019,8.012984275817871,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LVA,Latvia,2020,8.553549766540527,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LVA,Latvia,2021,6.802916526794434,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LVA,Latvia,2022,7.44325590133667,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LVA,Latvia,2023,7.81093692779541,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LVA,Latvia,2024,8.467899322509766,35,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBN,Lebanon,2017,15.927739143371582,4,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBN,Lebanon,2018,16.665163040161133,4,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBN,Lebanon,2019,16.042905807495117,4,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBN,Lebanon,2020,16.21544075012207,4,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBN,Lebanon,2021,16.462907791137695,4,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBN,Lebanon,2022,15.89291000366211,4,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBN,Lebanon,2023,16.6483097076416,4,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBN,Lebanon,2024,16.71309471130371,4,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LSO,Lesotho,2017,12.62214183807373,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LSO,Lesotho,2018,12.837302207946777,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LSO,Lesotho,2019,13.446318626403809,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LSO,Lesotho,2020,12.555536270141602,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LSO,Lesotho,2021,12.201376914978027,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LSO,Lesotho,2022,12.547150611877441,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LSO,Lesotho,2023,12.72797966003418,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LSO,Lesotho,2024,13.11805534362793,12,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBR,Liberia,2017,25.806861877441406,31,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBR,Liberia,2018,25.578344345092773,31,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBR,Liberia,2019,25.4658145904541,31,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBR,Liberia,2020,25.697052001953125,31,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBR,Liberia,2021,25.884681701660156,31,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBR,Liberia,2022,25.46961212158203,31,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBR,Liberia,2023,25.865982055664062,31,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBR,Liberia,2024,25.923500061035156,31,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBY,Libya,2017,22.5782527923584,592,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBY,Libya,2018,23.05805778503418,592,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBY,Libya,2019,22.66806411743164,592,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBY,Libya,2020,22.62501335144043,592,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBY,Libya,2021,23.034576416015625,592,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBY,Libya,2022,22.797197341918945,592,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBY,Libya,2023,22.952560424804688,592,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LBY,Libya,2024,23.2602596282959,592,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LTU,Lithuania,2017,7.547420978546143,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LTU,Lithuania,2018,8.158483505249023,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LTU,Lithuania,2019,8.69240665435791,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LTU,Lithuania,2020,9.059820175170898,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LTU,Lithuania,2021,7.284273624420166,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LTU,Lithuania,2022,7.974669933319092,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LTU,Lithuania,2023,8.564925193786621,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LTU,Lithuania,2024,9.190625190734863,38,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LUX,Luxembourg,2017,10.600000381469727,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LUX,Luxembourg,2018,11.390000343322754,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LUX,Luxembourg,2019,10.989999771118164,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LUX,Luxembourg,2020,11.479999542236328,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LUX,Luxembourg,2021,9.960000038146973,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LUX,Luxembourg,2022,11.670000076293945,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LUX,Luxembourg,2023,11.5600004196167,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LUX,Luxembourg,2024,11.300000190734863,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDG,Madagascar,2017,23.009126663208008,199,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDG,Madagascar,2018,22.858760833740234,199,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDG,Madagascar,2019,23.064594268798828,199,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDG,Madagascar,2020,22.806554794311523,199,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDG,Madagascar,2021,22.776601791381836,199,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDG,Madagascar,2022,22.626792907714844,199,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDG,Madagascar,2023,23.026016235351562,199,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDG,Madagascar,2024,23.036314010620117,199,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MWI,Malawi,2017,22.700756072998047,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MWI,Malawi,2018,22.67428207397461,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MWI,Malawi,2019,22.90397071838379,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MWI,Malawi,2020,22.907306671142578,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MWI,Malawi,2021,22.84479522705078,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MWI,Malawi,2022,22.58865737915039,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MWI,Malawi,2023,22.998720169067383,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MWI,Malawi,2024,23.30030059814453,39,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MYS,Malaysia,2017,26.517621994018555,105,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MYS,Malaysia,2018,26.558637619018555,105,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MYS,Malaysia,2019,26.84038734436035,105,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MYS,Malaysia,2020,26.724454879760742,105,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MYS,Malaysia,2021,26.495769500732422,105,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MYS,Malaysia,2022,26.366878509521484,105,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MYS,Malaysia,2023,26.794836044311523,105,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MYS,Malaysia,2024,27.079809188842773,105,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDV,Maldives,2017,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDV,Maldives,2018,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDV,Maldives,2019,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDV,Maldives,2020,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDV,Maldives,2021,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDV,Maldives,2022,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDV,Maldives,2023,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDV,Maldives,2024,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLI,Mali,2017,29.4149169921875,427,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLI,Mali,2018,29.36594581604004,427,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLI,Mali,2019,29.160686492919922,427,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLI,Mali,2020,29.435487747192383,427,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLI,Mali,2021,29.81357765197754,427,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLI,Mali,2022,29.209196090698242,427,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLI,Mali,2023,29.709781646728516,427,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLI,Mali,2024,29.698596954345703,427,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLT,Malta,2017,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLT,Malta,2018,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLT,Malta,2019,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLT,Malta,2020,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLT,Malta,2021,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLT,Malta,2022,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLT,Malta,2023,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MLT,Malta,2024,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MRT,Mauritania,2017,29.086843490600586,358,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MRT,Mauritania,2018,28.57094955444336,358,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MRT,Mauritania,2019,28.482542037963867,358,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MRT,Mauritania,2020,29.121444702148438,358,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MRT,Mauritania,2021,29.190698623657227,358,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MRT,Mauritania,2022,28.909202575683594,358,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MRT,Mauritania,2023,29.390546798706055,358,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MRT,Mauritania,2024,29.25531768798828,358,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MUS,Mauritius,2017,24.09000015258789,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MUS,Mauritius,2018,23.809999465942383,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MUS,Mauritius,2019,24.15999984741211,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MUS,Mauritius,2020,23.6200008392334,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MUS,Mauritius,2021,23.709999084472656,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MUS,Mauritius,2022,23.299999237060547,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MUS,Mauritius,2023,24.149999618530273,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MUS,Mauritius,2024,23.899999618530273,1,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MEX,Mexico,2017,22.18140983581543,704,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MEX,Mexico,2018,21.786331176757812,704,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MEX,Mexico,2019,21.91084861755371,704,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MEX,Mexico,2020,22.23069953918457,704,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MEX,Mexico,2021,21.93142318725586,704,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MEX,Mexico,2022,21.82155418395996,704,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MEX,Mexico,2023,22.247961044311523,704,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MEX,Mexico,2024,22.698810577392578,704,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNG,Mongolia,2017,2.213789701461792,741,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNG,Mongolia,2018,1.4986423254013062,741,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNG,Mongolia,2019,1.694483757019043,741,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNG,Mongolia,2020,1.6148990392684937,741,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNG,Mongolia,2021,2.125136613845825,741,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNG,Mongolia,2022,1.3188741207122803,741,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNG,Mongolia,2023,1.8156938552856445,741,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNG,Mongolia,2024,2.360686779022217,741,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNE,Montenegro,2017,10.166396141052246,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNE,Montenegro,2018,10.906072616577148,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNE,Montenegro,2019,11.03751277923584,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNE,Montenegro,2020,10.508428573608398,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNE,Montenegro,2021,9.900300025939941,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNE,Montenegro,2022,10.838375091552734,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNE,Montenegro,2023,11.179262161254883,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MNE,Montenegro,2024,11.589344024658203,6,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MAR,Morocco,2017,20.458051681518555,223,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MAR,Morocco,2018,19.326818466186523,223,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MAR,Morocco,2019,19.823060989379883,223,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MAR,Morocco,2020,20.334794998168945,223,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MAR,Morocco,2021,20.095773696899414,223,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MAR,Morocco,2022,20.625150680541992,223,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MAR,Morocco,2023,20.750452041625977,223,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MAR,Morocco,2024,20.728792190551758,223,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MOZ,Mozambique,2017,24.43362045288086,266,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MOZ,Mozambique,2018,24.57594108581543,266,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MOZ,Mozambique,2019,24.802255630493164,266,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MOZ,Mozambique,2020,24.664609909057617,266,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MOZ,Mozambique,2021,24.5618839263916,266,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MOZ,Mozambique,2022,24.422582626342773,266,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MOZ,Mozambique,2023,24.785776138305664,266,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MOZ,Mozambique,2024,25.17384910583496,266,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MMR,Myanmar,2017,24.00960922241211,231,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MMR,Myanmar,2018,23.83918571472168,231,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MMR,Myanmar,2019,24.365365982055664,231,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MMR,Myanmar,2020,24.21493911743164,231,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MMR,Myanmar,2021,24.20849609375,231,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MMR,Myanmar,2022,24.022979736328125,231,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MMR,Myanmar,2023,24.58208656311035,231,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MMR,Myanmar,2024,24.681638717651367,231,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NAM,Namibia,2017,20.412973403930664,284,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NAM,Namibia,2018,20.272768020629883,284,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NAM,Namibia,2019,20.66769790649414,284,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NAM,Namibia,2020,20.263124465942383,284,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NAM,Namibia,2021,20.090213775634766,284,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NAM,Namibia,2022,20.200820922851562,284,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NAM,Namibia,2023,20.527938842773438,284,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NAM,Namibia,2024,20.893268585205078,284,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NPL,Nepal,2017,15.416891098022461,53,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NPL,Nepal,2018,15.23314094543457,53,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NPL,Nepal,2019,14.996617317199707,53,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NPL,Nepal,2020,14.736173629760742,53,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NPL,Nepal,2021,15.089445114135742,53,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NPL,Nepal,2022,15.19774341583252,53,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NPL,Nepal,2023,15.047195434570312,53,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NPL,Nepal,2024,15.363913536071777,53,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NLD,Netherlands,2017,10.770787239074707,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NLD,Netherlands,2018,11.343484878540039,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NLD,Netherlands,2019,11.205849647521973,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NLD,Netherlands,2020,11.570330619812012,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NLD,Netherlands,2021,10.310223579406738,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NLD,Netherlands,2022,11.584115028381348,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NLD,Netherlands,2023,11.59565258026123,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NLD,Netherlands,2024,11.692481994628906,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NZL,New Zealand,2017,10.991811752319336,122,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NZL,New Zealand,2018,11.167397499084473,122,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NZL,New Zealand,2019,11.028031349182129,122,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NZL,New Zealand,2020,10.984824180603027,122,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NZL,New Zealand,2021,11.262563705444336,122,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NZL,New Zealand,2022,11.686684608459473,122,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NZL,New Zealand,2023,11.348495483398438,122,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NZL,New Zealand,2024,11.05543327331543,122,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NIC,Nicaragua,2017,26.138916015625,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NIC,Nicaragua,2018,25.75444984436035,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NIC,Nicaragua,2019,26.106168746948242,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NIC,Nicaragua,2020,26.283897399902344,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NIC,Nicaragua,2021,26.101131439208984,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NIC,Nicaragua,2022,25.898244857788086,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NIC,Nicaragua,2023,26.5800838470459,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NIC,Nicaragua,2024,26.628023147583008,47,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NER,Niger,2017,28.01119613647461,404,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NER,Niger,2018,28.194421768188477,404,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NER,Niger,2019,27.906452178955078,404,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NER,Niger,2020,27.86138343811035,404,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NER,Niger,2021,28.110746383666992,404,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NER,Niger,2022,27.637187957763672,404,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NER,Niger,2023,28.372995376586914,404,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NER,Niger,2024,28.21411895751953,404,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NGA,Nigeria,2017,27.4505672454834,300,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NGA,Nigeria,2018,27.46016502380371,300,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NGA,Nigeria,2019,27.3408145904541,300,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NGA,Nigeria,2020,27.411834716796875,300,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NGA,Nigeria,2021,27.610855102539062,300,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NGA,Nigeria,2022,27.07631492614746,300,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NGA,Nigeria,2023,27.7246150970459,300,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NGA,Nigeria,2024,27.651348114013672,300,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XNC,North Cyprus,2017,19.770000457763672,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XNC,North Cyprus,2018,20.594999313354492,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XNC,North Cyprus,2019,20.125,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XNC,North Cyprus,2020,20.360000610351562,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XNC,North Cyprus,2021,20.450000762939453,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XNC,North Cyprus,2022,19.92500114440918,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XNC,North Cyprus,2023,20.549999237060547,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XNC,North Cyprus,2024,20.84499740600586,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MKD,North Macedonia,2017,10.958460807800293,11,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MKD,North Macedonia,2018,11.609971046447754,11,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MKD,North Macedonia,2019,11.696126937866211,11,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MKD,North Macedonia,2020,11.434296607971191,11,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MKD,North Macedonia,2021,11.05482006072998,11,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MKD,North Macedonia,2022,11.553126335144043,11,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MKD,North Macedonia,2023,12.103126525878906,11,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MKD,North Macedonia,2024,12.44482135772705,11,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NOR,Norway,2017,1.0204411745071411,349,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NOR,Norway,2018,1.371467113494873,349,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NOR,Norway,2019,0.9407695531845093,349,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NOR,Norway,2020,1.945217251777649,349,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NOR,Norway,2021,0.8220897912979126,349,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NOR,Norway,2022,1.5459197759628296,349,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NOR,Norway,2023,1.0195344686508179,349,CRU TS4.09 / World Bank CCKP; land-cell area weights
+NOR,Norway,2024,1.6911648511886597,349,CRU TS4.09 / World Bank CCKP; land-cell area weights
+OMN,Oman,2017,28.082944869995117,112,CRU TS4.09 / World Bank CCKP; land-cell area weights
+OMN,Oman,2018,28.023880004882812,112,CRU TS4.09 / World Bank CCKP; land-cell area weights
+OMN,Oman,2019,28.030412673950195,112,CRU TS4.09 / World Bank CCKP; land-cell area weights
+OMN,Oman,2020,27.706968307495117,112,CRU TS4.09 / World Bank CCKP; land-cell area weights
+OMN,Oman,2021,28.09480094909668,112,CRU TS4.09 / World Bank CCKP; land-cell area weights
+OMN,Oman,2022,27.879562377929688,112,CRU TS4.09 / World Bank CCKP; land-cell area weights
+OMN,Oman,2023,28.332271575927734,112,CRU TS4.09 / World Bank CCKP; land-cell area weights
+OMN,Oman,2024,28.203184127807617,112,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAK,Pakistan,2017,21.569774627685547,321,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAK,Pakistan,2018,21.861913681030273,321,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAK,Pakistan,2019,21.05792999267578,321,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAK,Pakistan,2020,20.907854080200195,321,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAK,Pakistan,2021,21.628389358520508,321,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAK,Pakistan,2022,21.85235023498535,321,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAK,Pakistan,2023,21.528867721557617,321,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAK,Pakistan,2024,21.77704620361328,321,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAN,Panama,2017,25.44477653503418,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAN,Panama,2018,25.329797744750977,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAN,Panama,2019,25.621047973632812,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAN,Panama,2020,25.610607147216797,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAN,Panama,2021,25.322694778442383,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAN,Panama,2022,25.085628509521484,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAN,Panama,2023,25.866056442260742,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PAN,Panama,2024,25.94104766845703,24,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRY,Paraguay,2017,24.407573699951172,142,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRY,Paraguay,2018,23.801830291748047,142,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRY,Paraguay,2019,24.293437957763672,142,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRY,Paraguay,2020,24.477418899536133,142,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRY,Paraguay,2021,23.94954490661621,142,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRY,Paraguay,2022,23.816064834594727,142,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRY,Paraguay,2023,25.032360076904297,142,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRY,Paraguay,2024,24.81211280822754,142,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PER,Peru,2017,19.932024002075195,428,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PER,Peru,2018,19.624208450317383,428,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PER,Peru,2019,19.65486717224121,428,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PER,Peru,2020,19.864126205444336,428,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PER,Peru,2021,19.708383560180664,428,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PER,Peru,2022,19.58844566345215,428,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PER,Peru,2023,20.974979400634766,428,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PER,Peru,2024,20.22547149658203,428,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PHL,Philippines,2017,26.235862731933594,90,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PHL,Philippines,2018,26.407024383544922,90,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PHL,Philippines,2019,26.469730377197266,90,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PHL,Philippines,2020,26.589618682861328,90,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PHL,Philippines,2021,26.561569213867188,90,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PHL,Philippines,2022,26.48214340209961,90,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PHL,Philippines,2023,26.78680419921875,90,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PHL,Philippines,2024,27.02729606628418,90,CRU TS4.09 / World Bank CCKP; land-cell area weights
+POL,Poland,2017,9.158805847167969,165,CRU TS4.09 / World Bank CCKP; land-cell area weights
+POL,Poland,2018,9.994852066040039,165,CRU TS4.09 / World Bank CCKP; land-cell area weights
+POL,Poland,2019,10.18429946899414,165,CRU TS4.09 / World Bank CCKP; land-cell area weights
+POL,Poland,2020,10.06085205078125,165,CRU TS4.09 / World Bank CCKP; land-cell area weights
+POL,Poland,2021,8.780719757080078,165,CRU TS4.09 / World Bank CCKP; land-cell area weights
+POL,Poland,2022,9.728025436401367,165,CRU TS4.09 / World Bank CCKP; land-cell area weights
+POL,Poland,2023,10.236703872680664,165,CRU TS4.09 / World Bank CCKP; land-cell area weights
+POL,Poland,2024,10.901541709899902,165,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRT,Portugal,2017,16.69014549255371,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRT,Portugal,2018,15.96998405456543,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRT,Portugal,2019,16.284961700439453,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRT,Portugal,2020,16.639673233032227,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRT,Portugal,2021,16.206045150756836,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRT,Portugal,2022,17.102006912231445,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRT,Portugal,2023,17.11016273498535,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRT,Portugal,2024,16.987770080566406,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRI,Puerto Rico,2017,25.020000457763672,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRI,Puerto Rico,2018,24.816667556762695,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRI,Puerto Rico,2019,25.123332977294922,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRI,Puerto Rico,2020,25.15999984741211,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRI,Puerto Rico,2021,25.020000457763672,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRI,Puerto Rico,2022,24.953332901000977,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRI,Puerto Rico,2023,25.380001068115234,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PRI,Puerto Rico,2024,25.71666717529297,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+QAT,Qatar,2017,28.550565719604492,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+QAT,Qatar,2018,29.0205078125,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+QAT,Qatar,2019,28.45728874206543,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+QAT,Qatar,2020,28.340564727783203,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+QAT,Qatar,2021,29.343801498413086,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+QAT,Qatar,2022,28.97374725341797,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+QAT,Qatar,2023,29.120481491088867,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+QAT,Qatar,2024,28.707149505615234,3,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KOR,Republic of Korea,2017,12.319663047790527,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KOR,Republic of Korea,2018,12.438398361206055,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KOR,Republic of Korea,2019,12.822359085083008,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KOR,Republic of Korea,2020,12.513528823852539,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KOR,Republic of Korea,2021,13.009780883789062,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KOR,Republic of Korea,2022,12.62770938873291,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KOR,Republic of Korea,2023,13.227291107177734,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+KOR,Republic of Korea,2024,13.540573120117188,41,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDA,Republic of Moldova,2017,11.40705680847168,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDA,Republic of Moldova,2018,11.573771476745605,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDA,Republic of Moldova,2019,12.361773490905762,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDA,Republic of Moldova,2020,12.483920097351074,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDA,Republic of Moldova,2021,11.00927734375,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDA,Republic of Moldova,2022,11.809591293334961,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDA,Republic of Moldova,2023,12.753599166870117,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+MDA,Republic of Moldova,2024,12.965263366699219,15,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ROU,Romania,2017,10.567974090576172,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ROU,Romania,2018,11.197195053100586,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ROU,Romania,2019,11.595477104187012,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ROU,Romania,2020,11.152349472045898,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ROU,Romania,2021,10.214407920837402,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ROU,Romania,2022,11.10119342803955,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ROU,Romania,2023,11.825156211853027,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ROU,Romania,2024,12.201948165893555,110,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RUS,Russian Federation,2017,-2.9088189601898193,11715,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RUS,Russian Federation,2018,-3.441993236541748,11715,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RUS,Russian Federation,2019,-2.8335988521575928,11715,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RUS,Russian Federation,2020,-1.7481768131256104,11715,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RUS,Russian Federation,2021,-3.6636412143707275,11715,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RUS,Russian Federation,2022,-2.8912532329559326,11715,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RUS,Russian Federation,2023,-2.795405149459839,11715,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RUS,Russian Federation,2024,-2.6150224208831787,11715,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RWA,Rwanda,2017,19.608898162841797,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RWA,Rwanda,2018,19.223907470703125,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RWA,Rwanda,2019,19.445905685424805,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RWA,Rwanda,2020,19.294910430908203,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RWA,Rwanda,2021,19.36790657043457,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RWA,Rwanda,2022,19.323909759521484,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RWA,Rwanda,2023,19.666906356811523,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+RWA,Rwanda,2024,19.063899993896484,10,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SAU,Saudi Arabia,2017,26.21198081970215,683,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SAU,Saudi Arabia,2018,26.475908279418945,683,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SAU,Saudi Arabia,2019,26.18406105041504,683,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SAU,Saudi Arabia,2020,26.099105834960938,683,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SAU,Saudi Arabia,2021,26.666227340698242,683,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SAU,Saudi Arabia,2022,26.311641693115234,683,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SAU,Saudi Arabia,2023,26.527055740356445,683,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SAU,Saudi Arabia,2024,26.34380531311035,683,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SEN,Senegal,2017,29.24772834777832,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SEN,Senegal,2018,28.797128677368164,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SEN,Senegal,2019,28.540069580078125,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SEN,Senegal,2020,29.433147430419922,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SEN,Senegal,2021,29.543733596801758,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SEN,Senegal,2022,28.91461753845215,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SEN,Senegal,2023,29.62004852294922,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SEN,Senegal,2024,29.351308822631836,67,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SRB,Serbia,2017,11.886850357055664,32,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SRB,Serbia,2018,12.708331108093262,32,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SRB,Serbia,2019,12.89261245727539,32,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SRB,Serbia,2020,12.23155689239502,32,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SRB,Serbia,2021,11.603713035583496,32,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SRB,Serbia,2022,12.580137252807617,32,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SRB,Serbia,2023,13.040791511535645,32,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SRB,Serbia,2024,13.478161811828613,32,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLE,Sierra Leone,2017,26.810749053955078,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLE,Sierra Leone,2018,26.57381248474121,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLE,Sierra Leone,2019,26.47871971130371,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLE,Sierra Leone,2020,26.81660270690918,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLE,Sierra Leone,2021,27.126070022583008,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLE,Sierra Leone,2022,26.47385597229004,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLE,Sierra Leone,2023,27.19493293762207,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SLE,Sierra Leone,2024,26.960145950317383,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SGP,Singapore,2017,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SGP,Singapore,2018,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SGP,Singapore,2019,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SGP,Singapore,2020,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SGP,Singapore,2021,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SGP,Singapore,2022,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SGP,Singapore,2023,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SGP,Singapore,2024,,0,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVK,Slovakia,2017,9.1912841796875,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVK,Slovakia,2018,10.06416130065918,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVK,Slovakia,2019,10.150782585144043,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVK,Slovakia,2020,9.733903884887695,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVK,Slovakia,2021,8.81784725189209,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVK,Slovakia,2022,9.881032943725586,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVK,Slovakia,2023,10.322097778320312,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVK,Slovakia,2024,10.872303009033203,25,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVN,Slovenia,2017,10.042105674743652,9,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVN,Slovenia,2018,10.848012924194336,9,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVN,Slovenia,2019,10.837235450744629,9,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVN,Slovenia,2020,10.415361404418945,9,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVN,Slovenia,2021,9.711703300476074,9,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVN,Slovenia,2022,10.905653953552246,9,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVN,Slovenia,2023,11.134564399719238,9,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SVN,Slovenia,2024,11.475522994995117,9,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SOM,Somalia,2017,27.696256637573242,155,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SOM,Somalia,2018,27.46285629272461,155,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SOM,Somalia,2019,27.75775146484375,155,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SOM,Somalia,2020,27.676015853881836,155,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SOM,Somalia,2021,27.537607192993164,155,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SOM,Somalia,2022,27.723163604736328,155,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SOM,Somalia,2023,27.70242691040039,155,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SOM,Somalia,2024,27.8186092376709,155,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XSL,Somaliland Region,2017,25.44117546081543,58,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XSL,Somaliland Region,2018,24.98955535888672,58,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XSL,Somaliland Region,2019,25.268709182739258,58,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XSL,Somaliland Region,2020,25.150808334350586,58,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XSL,Somaliland Region,2021,25.05229949951172,58,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XSL,Somaliland Region,2022,25.396854400634766,58,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XSL,Somaliland Region,2023,25.418033599853516,58,CRU TS4.09 / World Bank CCKP; land-cell area weights
+XSL,Somaliland Region,2024,25.82408905029297,58,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZAF,South Africa,2017,18.494150161743164,451,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZAF,South Africa,2018,18.618183135986328,451,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZAF,South Africa,2019,19.23850440979004,451,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZAF,South Africa,2020,18.45197868347168,451,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZAF,South Africa,2021,18.059776306152344,451,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZAF,South Africa,2022,18.417707443237305,451,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZAF,South Africa,2023,18.57896614074707,451,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZAF,South Africa,2024,18.990203857421875,451,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SSD,South Sudan,2017,28.085620880126953,202,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SSD,South Sudan,2018,27.824729919433594,202,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SSD,South Sudan,2019,27.961082458496094,202,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SSD,South Sudan,2020,27.592315673828125,202,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SSD,South Sudan,2021,27.95269203186035,202,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SSD,South Sudan,2022,27.55251121520996,202,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SSD,South Sudan,2023,28.12314796447754,202,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SSD,South Sudan,2024,28.198978424072266,202,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ESP,Spain,2017,14.661602973937988,217,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ESP,Spain,2018,14.08513069152832,217,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ESP,Spain,2019,14.3422269821167,217,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ESP,Spain,2020,14.739460945129395,217,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ESP,Spain,2021,14.407923698425293,217,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ESP,Spain,2022,15.129026412963867,217,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ESP,Spain,2023,15.133935928344727,217,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ESP,Spain,2024,15.067109107971191,217,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LKA,Sri Lanka,2017,27.402202606201172,22,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LKA,Sri Lanka,2018,27.308969497680664,22,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LKA,Sri Lanka,2019,27.636259078979492,22,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LKA,Sri Lanka,2020,27.6081600189209,22,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LKA,Sri Lanka,2021,27.37128257751465,22,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LKA,Sri Lanka,2022,27.192232131958008,22,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LKA,Sri Lanka,2023,27.393129348754883,22,CRU TS4.09 / World Bank CCKP; land-cell area weights
+LKA,Sri Lanka,2024,27.84860610961914,22,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PSE,State of Palestine,2017,20.548643112182617,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PSE,State of Palestine,2018,21.228967666625977,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PSE,State of Palestine,2019,20.57394027709961,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PSE,State of Palestine,2020,20.648752212524414,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PSE,State of Palestine,2021,20.958969116210938,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PSE,State of Palestine,2022,20.37388801574707,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PSE,State of Palestine,2023,21.263887405395508,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+PSE,State of Palestine,2024,21.153995513916016,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SDN,Sudan,2017,28.265090942382812,629,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SDN,Sudan,2018,28.243200302124023,629,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SDN,Sudan,2019,28.078519821166992,629,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SDN,Sudan,2020,27.47989273071289,629,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SDN,Sudan,2021,28.211252212524414,629,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SDN,Sudan,2022,27.577529907226562,629,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SDN,Sudan,2023,27.810230255126953,629,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SDN,Sudan,2024,27.74395751953125,629,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SUR,Suriname,2017,26.764724731445312,48,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SUR,Suriname,2018,26.550355911254883,48,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SUR,Suriname,2019,26.819738388061523,48,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SUR,Suriname,2020,26.926408767700195,48,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SUR,Suriname,2021,26.63950538635254,48,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SUR,Suriname,2022,26.563318252563477,48,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SUR,Suriname,2023,27.105329513549805,48,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SUR,Suriname,2024,27.602176666259766,48,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWE,Sweden,2017,3.2378652095794678,310,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWE,Sweden,2018,3.771982431411743,310,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWE,Sweden,2019,3.5282375812530518,310,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWE,Sweden,2020,4.625833988189697,310,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWE,Sweden,2021,3.119528293609619,310,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWE,Sweden,2022,3.9164772033691406,310,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWE,Sweden,2023,3.390817880630493,310,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SWE,Sweden,2024,4.197941303253174,310,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHE,Switzerland,2017,6.689261436462402,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHE,Switzerland,2018,7.56107759475708,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHE,Switzerland,2019,7.2074689865112305,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHE,Switzerland,2020,7.5674147605896,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHE,Switzerland,2021,6.203288555145264,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHE,Switzerland,2022,7.952145099639893,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHE,Switzerland,2023,7.8897905349731445,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+CHE,Switzerland,2024,7.721207141876221,17,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SYR,Syria,2017,19.101940155029297,71,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SYR,Syria,2018,19.94676399230957,71,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SYR,Syria,2019,19.270362854003906,71,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SYR,Syria,2020,19.38317108154297,71,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SYR,Syria,2021,19.672164916992188,71,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SYR,Syria,2022,19.156021118164062,71,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SYR,Syria,2023,19.752765655517578,71,CRU TS4.09 / World Bank CCKP; land-cell area weights
+SYR,Syria,2024,19.757883071899414,71,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TWN,Taiwan Province of China,2017,20.883991241455078,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TWN,Taiwan Province of China,2018,20.74716567993164,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TWN,Taiwan Province of China,2019,21.259639739990234,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TWN,Taiwan Province of China,2020,21.14485740661621,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TWN,Taiwan Province of China,2021,21.185672760009766,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TWN,Taiwan Province of China,2022,20.96822166442871,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TWN,Taiwan Province of China,2023,21.14881134033203,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TWN,Taiwan Province of China,2024,21.458585739135742,13,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TJK,Tajikistan,2017,4.184726715087891,57,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TJK,Tajikistan,2018,4.3694915771484375,57,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TJK,Tajikistan,2019,4.657794952392578,57,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TJK,Tajikistan,2020,3.8058085441589355,57,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TJK,Tajikistan,2021,4.869407653808594,57,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TJK,Tajikistan,2022,5.219971656799316,57,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TJK,Tajikistan,2023,5.570493698120117,57,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TJK,Tajikistan,2024,4.88456392288208,57,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TZA,Tanzania,2017,23.193988800048828,307,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TZA,Tanzania,2018,22.791828155517578,307,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TZA,Tanzania,2019,23.114124298095703,307,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TZA,Tanzania,2020,23.02461051940918,307,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TZA,Tanzania,2021,22.98528289794922,307,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TZA,Tanzania,2022,22.890321731567383,307,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TZA,Tanzania,2023,23.235952377319336,307,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TZA,Tanzania,2024,23.054162979125977,307,CRU TS4.09 / World Bank CCKP; land-cell area weights
+THA,Thailand,2017,26.90020751953125,172,CRU TS4.09 / World Bank CCKP; land-cell area weights
+THA,Thailand,2018,26.899276733398438,172,CRU TS4.09 / World Bank CCKP; land-cell area weights
+THA,Thailand,2019,27.482778549194336,172,CRU TS4.09 / World Bank CCKP; land-cell area weights
+THA,Thailand,2020,27.393505096435547,172,CRU TS4.09 / World Bank CCKP; land-cell area weights
+THA,Thailand,2021,26.863971710205078,172,CRU TS4.09 / World Bank CCKP; land-cell area weights
+THA,Thailand,2022,26.740079879760742,172,CRU TS4.09 / World Bank CCKP; land-cell area weights
+THA,Thailand,2023,27.509305953979492,172,CRU TS4.09 / World Bank CCKP; land-cell area weights
+THA,Thailand,2024,27.795644760131836,172,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TGO,Togo,2017,27.639911651611328,18,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TGO,Togo,2018,27.537521362304688,18,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TGO,Togo,2019,27.492630004882812,18,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TGO,Togo,2020,27.684860229492188,18,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TGO,Togo,2021,27.869705200195312,18,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TGO,Togo,2022,27.31593132019043,18,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TGO,Togo,2023,27.82853126525879,18,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TGO,Togo,2024,27.95551109313965,18,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TTO,Trinidad and Tobago,2017,26.765100479125977,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TTO,Trinidad and Tobago,2018,26.390113830566406,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TTO,Trinidad and Tobago,2019,26.700105667114258,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TTO,Trinidad and Tobago,2020,26.790103912353516,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TTO,Trinidad and Tobago,2021,26.540103912353516,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TTO,Trinidad and Tobago,2022,26.430103302001953,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TTO,Trinidad and Tobago,2023,27.045133590698242,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TTO,Trinidad and Tobago,2024,27.56011962890625,2,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUN,Tunisia,2017,20.731571197509766,59,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUN,Tunisia,2018,20.790660858154297,59,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUN,Tunisia,2019,20.75090789794922,59,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUN,Tunisia,2020,20.91937255859375,59,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUN,Tunisia,2021,21.282075881958008,59,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUN,Tunisia,2022,21.4735107421875,59,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUN,Tunisia,2023,21.223602294921875,59,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUN,Tunisia,2024,21.635807037353516,59,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TKM,Turkmenistan,2017,16.831518173217773,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TKM,Turkmenistan,2018,17.04106330871582,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TKM,Turkmenistan,2019,17.305030822753906,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TKM,Turkmenistan,2020,16.351472854614258,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TKM,Turkmenistan,2021,17.58725357055664,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TKM,Turkmenistan,2022,17.630231857299805,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TKM,Turkmenistan,2023,18.302413940429688,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TKM,Turkmenistan,2024,17.338417053222656,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUR,Türkiye,2017,11.906570434570312,325,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUR,Türkiye,2018,13.014305114746094,325,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUR,Türkiye,2019,12.463515281677246,325,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUR,Türkiye,2020,12.616140365600586,325,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUR,Türkiye,2021,12.535138130187988,325,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUR,Türkiye,2022,12.216364860534668,325,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUR,Türkiye,2023,12.904703140258789,325,CRU TS4.09 / World Bank CCKP; land-cell area weights
+TUR,Türkiye,2024,13.13842487335205,325,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UGA,Uganda,2017,23.230792999267578,82,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UGA,Uganda,2018,22.998966217041016,82,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UGA,Uganda,2019,23.2144832611084,82,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UGA,Uganda,2020,23.234455108642578,82,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UGA,Uganda,2021,23.171045303344727,82,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UGA,Uganda,2022,23.20323944091797,82,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UGA,Uganda,2023,23.585723876953125,82,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UGA,Uganda,2024,23.17018699645996,82,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UKR,Ukraine,2017,9.688505172729492,285,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UKR,Ukraine,2018,9.787646293640137,285,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UKR,Ukraine,2019,10.572505950927734,285,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UKR,Ukraine,2020,10.714658737182617,285,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UKR,Ukraine,2021,9.27532958984375,285,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UKR,Ukraine,2022,9.918211936950684,285,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UKR,Ukraine,2023,10.750667572021484,285,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UKR,Ukraine,2024,11.115022659301758,285,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARE,United Arab Emirates,2017,28.59004783630371,23,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARE,United Arab Emirates,2018,28.889047622680664,23,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARE,United Arab Emirates,2019,28.439260482788086,23,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARE,United Arab Emirates,2020,28.256315231323242,23,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARE,United Arab Emirates,2021,29.061635971069336,23,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARE,United Arab Emirates,2022,28.707725524902344,23,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARE,United Arab Emirates,2023,28.993223190307617,23,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ARE,United Arab Emirates,2024,28.664548873901367,23,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GBR,United Kingdom,2017,9.669014930725098,136,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GBR,United Kingdom,2018,9.553837776184082,136,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GBR,United Kingdom,2019,9.636749267578125,136,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GBR,United Kingdom,2020,9.735554695129395,136,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GBR,United Kingdom,2021,9.452779769897461,136,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GBR,United Kingdom,2022,10.14982795715332,136,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GBR,United Kingdom,2023,10.163250923156738,136,CRU TS4.09 / World Bank CCKP; land-cell area weights
+GBR,United Kingdom,2024,9.905625343322754,136,CRU TS4.09 / World Bank CCKP; land-cell area weights
+USA,United States,2017,10.173636436462402,4466,CRU TS4.09 / World Bank CCKP; land-cell area weights
+USA,United States,2018,9.849352836608887,4466,CRU TS4.09 / World Bank CCKP; land-cell area weights
+USA,United States,2019,9.679336547851562,4466,CRU TS4.09 / World Bank CCKP; land-cell area weights
+USA,United States,2020,9.967243194580078,4466,CRU TS4.09 / World Bank CCKP; land-cell area weights
+USA,United States,2021,9.993117332458496,4466,CRU TS4.09 / World Bank CCKP; land-cell area weights
+USA,United States,2022,9.689007759094238,4466,CRU TS4.09 / World Bank CCKP; land-cell area weights
+USA,United States,2023,10.206459045410156,4466,CRU TS4.09 / World Bank CCKP; land-cell area weights
+USA,United States,2024,10.695000648498535,4466,CRU TS4.09 / World Bank CCKP; land-cell area weights
+URY,Uruguay,2017,18.72084617614746,70,CRU TS4.09 / World Bank CCKP; land-cell area weights
+URY,Uruguay,2018,18.238624572753906,70,CRU TS4.09 / World Bank CCKP; land-cell area weights
+URY,Uruguay,2019,18.218557357788086,70,CRU TS4.09 / World Bank CCKP; land-cell area weights
+URY,Uruguay,2020,18.2396183013916,70,CRU TS4.09 / World Bank CCKP; land-cell area weights
+URY,Uruguay,2021,18.077407836914062,70,CRU TS4.09 / World Bank CCKP; land-cell area weights
+URY,Uruguay,2022,17.80460548400879,70,CRU TS4.09 / World Bank CCKP; land-cell area weights
+URY,Uruguay,2023,18.909404754638672,70,CRU TS4.09 / World Bank CCKP; land-cell area weights
+URY,Uruguay,2024,18.415790557861328,70,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UZB,Uzbekistan,2017,14.12862491607666,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UZB,Uzbekistan,2018,13.93929672241211,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UZB,Uzbekistan,2019,14.721282005310059,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UZB,Uzbekistan,2020,13.968689918518066,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UZB,Uzbekistan,2021,14.894783973693848,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UZB,Uzbekistan,2022,14.953926086425781,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UZB,Uzbekistan,2023,15.7345552444458,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+UZB,Uzbekistan,2024,14.685486793518066,194,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VEN,Venezuela,2017,25.830791473388672,295,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VEN,Venezuela,2018,25.554580688476562,295,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VEN,Venezuela,2019,25.830020904541016,295,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VEN,Venezuela,2020,25.87265396118164,295,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VEN,Venezuela,2021,25.578617095947266,295,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VEN,Venezuela,2022,25.502168655395508,295,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VEN,Venezuela,2023,25.981616973876953,295,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VEN,Venezuela,2024,26.245441436767578,295,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VNM,Viet Nam,2017,24.731712341308594,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VNM,Viet Nam,2018,24.719615936279297,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VNM,Viet Nam,2019,25.298906326293945,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VNM,Viet Nam,2020,25.119653701782227,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VNM,Viet Nam,2021,24.92582130432129,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VNM,Viet Nam,2022,24.64225959777832,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VNM,Viet Nam,2023,25.411468505859375,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+VNM,Viet Nam,2024,25.467391967773438,114,CRU TS4.09 / World Bank CCKP; land-cell area weights
+YEM,Yemen,2017,25.773651123046875,156,CRU TS4.09 / World Bank CCKP; land-cell area weights
+YEM,Yemen,2018,25.521564483642578,156,CRU TS4.09 / World Bank CCKP; land-cell area weights
+YEM,Yemen,2019,25.95187759399414,156,CRU TS4.09 / World Bank CCKP; land-cell area weights
+YEM,Yemen,2020,25.64098358154297,156,CRU TS4.09 / World Bank CCKP; land-cell area weights
+YEM,Yemen,2021,25.645021438598633,156,CRU TS4.09 / World Bank CCKP; land-cell area weights
+YEM,Yemen,2022,25.572940826416016,156,CRU TS4.09 / World Bank CCKP; land-cell area weights
+YEM,Yemen,2023,25.947250366210938,156,CRU TS4.09 / World Bank CCKP; land-cell area weights
+YEM,Yemen,2024,26.031970977783203,156,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZMB,Zambia,2017,22.194931030273438,249,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZMB,Zambia,2018,21.94847869873047,249,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZMB,Zambia,2019,22.276330947875977,249,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZMB,Zambia,2020,22.061697006225586,249,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZMB,Zambia,2021,22.075267791748047,249,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZMB,Zambia,2022,21.876344680786133,249,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZMB,Zambia,2023,22.091699600219727,249,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZMB,Zambia,2024,22.303071975708008,249,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZWE,Zimbabwe,2017,21.798233032226562,135,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZWE,Zimbabwe,2018,22.097715377807617,135,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZWE,Zimbabwe,2019,22.426925659179688,135,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZWE,Zimbabwe,2020,21.962841033935547,135,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZWE,Zimbabwe,2021,21.905986785888672,135,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZWE,Zimbabwe,2022,21.844661712646484,135,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZWE,Zimbabwe,2023,22.111112594604492,135,CRU TS4.09 / World Bank CCKP; land-cell area weights
+ZWE,Zimbabwe,2024,22.54657745361328,135,CRU TS4.09 / World Bank CCKP; land-cell area weights
