@@ -291,8 +291,14 @@ function render() {
 async function init() {
   try {
     [data, world] = await Promise.all([
-      fetch('/assets/data.json').then(response => response.json()),
-      fetch('/assets/world.json').then(response => response.json())
+      fetch(new URL('./assets/data.json', import.meta.url)).then(response => {
+        if (!response.ok) throw new Error(`Could not load data.json (${response.status})`);
+        return response.json();
+      }),
+      fetch(new URL('./assets/world.json', import.meta.url)).then(response => {
+        if (!response.ok) throw new Error(`Could not load world.json (${response.status})`);
+        return response.json();
+      })
     ]);
     meta = data.meta;
     rows = data.rows.map(row => ({
